@@ -11,7 +11,7 @@ cd ~
 mkdir -p log/apache2
 docker run --name dvwa -itd -p 80:80 -p 3306:3306 -e MYSQL_PASS="mypass" -v ~/log/apahce2:/var/log/apache2 vulnerables/web-dvwa
 ```
-- Then, you should be able to access the server log in your host OS.
+- Then, you should be able to access the server log (mainly the `access.log`) in your host OS's `~/log/apache2`.
 
 Default username = `admin`
 
