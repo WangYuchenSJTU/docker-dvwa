@@ -17,10 +17,31 @@ Default username = `admin`
 
 Default password = `password`
 
-## Tool commands
-```bash
-docker cp CONTAINER_ID:PATH LOCAL_PATH
-```
+## Tool Commands
+* remove all stopped containers
 
-## To do
+`docker rm $(docker ps -a -q)`
+* stop all containers
+
+`docker kill $(docker ps -q)`
+* remove all containers
+
+`docker rm $(docker ps -a -q)`
+* remove all exited containers
+
+`docker rm $(docker ps -qa --no-trunc --filter "status=exited")`
+* remove all docker images
+
+`docker rmi $(docker images -q)`
+* delete all unused images
+
+`docker rmi $(docker images --filter "dangling=true" -q --no-trunc)`
+* remove all untagged images
+
+`docker rmi $(docker images | grep "^<none>" | awk "{print $3}")`
+* copy files from containers
+
+`docker cp CONTAINER_ID:PATH LOCAL_PATH`
+
+## To Do
 Apache(DVWA) + ELK in k8s
