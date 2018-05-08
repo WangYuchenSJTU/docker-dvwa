@@ -10,7 +10,7 @@
 指令可以参考  https://blog.csdn.net/emaste_r/article/details/8072323
 下面罗列一些经测试可以使用的指令
 ### 基本格式
- 以dvwa为例，需要提供待攻击网站的url和cookie
+ 以dvwa为例，需要提供待攻击网站的url和cookie \n
  python xsser.py -u "http://127.0.0.1/vulnerabilities/xss_r/?name=" --cookie="security=low; PHPSESSID=irlo67ci48k9eh3qluc57gjr80"
  url提示了攻击插入点
  
