@@ -9,9 +9,9 @@ Command Injection
 commix.py –url=”” –data=”” –cookie=””
 commix.py为打开我们的commix脚本，其次还需要输入对应的攻击网址url，data与cookie的相关数据
 ### 更多用法
-Options:
-  -h, --help            Show help and exit.
-Target:
+    Options:
+      -h, --help            Show help and exit.
+    Target:
   -u URL, --url=URL     Target URL.
 Request:
   -d DATA, --data=..    Data string to be sent through POST.
