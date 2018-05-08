@@ -13,16 +13,16 @@ commix.py为打开我们的commix脚本，其次还需要输入对应的攻击�
     Options:
       -h, --help            Show help and exit.
     Target:
-  -u URL, --url=URL     Target URL.
-Request:
-  -d DATA, --data=..    Data string to be sent through POST.
-  --host=HOST           HTTP Host header.
-  --referer=REFERER     HTTP Referer header.
-  --user-agent=AGENT    HTTP User-Agent header.
-  --cookie=COOKIE       HTTP Cookie header.
-  --cookie-del=CDEL     Set character for splitting cookie values.
-Enumeration:
-  --all               Retrieve everything.
+          -u URL, --url=URL     Target URL.
+        Request:
+          -d DATA, --data=..    Data string to be sent through POST.
+          --host=HOST           HTTP Host header.
+          --referer=REFERER     HTTP Referer header.
+      --user-agent=AGENT    HTTP User-Agent header.
+      --cookie=COOKIE       HTTP Cookie header.
+      --cookie-del=CDEL     Set character for splitting cookie values.
+        Enumeration:
+          --all               Retrieve everything.
   --sys-info          Retrieve system information.
   --users             Retrieve system users.
   --passwords         Retrieve system users password hashes.
