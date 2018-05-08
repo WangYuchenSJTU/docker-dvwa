@@ -21,11 +21,16 @@
  #### 自动化攻击
       -auto用于自动攻击
  #### 校验器
-      --heuristic  测试哪些字符没有被屏蔽
+  用来测试网站有没有过滤攻击的手段  
+  --heuristic  测试哪些字符没有被屏蔽  
  #### 选择bypasser
      --Hex 使用16进制编码
      强大的攻击方式，对于dvwa初级中级攻击尝试全部成功
      对于高级仍然有80%以上命中率
  #### 特殊技巧
      --Xsa 跨站Agent 脚本
-     
+ ## 示例 
+ 1. python xsser.py -u "http://127.0.0.1/vulnerabilities/xss_r/?name=" --cookie="security=low; PHPSESSID=a1lhrbjm0ifv8ju6qknfd685j6" --auto -s -v --reverse-check --Hex   
+自动攻击，显示详细信息，以16进制编码
+
+更详细的英文版本访问 http://www.bubuko.com/infodetail-516700.html
