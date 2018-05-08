@@ -33,7 +33,7 @@ commix.py为打开我们的commix脚本，其次还需要输入对应的攻击�
 更多用法请见https://github.com/commixproject/commix/wiki/Usage， https://tools.kali.org/exploitation-tools/commix
 
 ### 示例
-DVWA
+#### DVWA
 root@kali:~/commix# python commix.py --url="http://192.168.178.58/DVWA-1.0.8/vulnerabilities/exec/#" --data="ip=127.0.0.1&Submit=Submit" --cookie="security=medium; PHPSESSID=nq30op434117mo7o2oe5bl7is4"
 更多示例请见https://github.com/commixproject/commix/wiki/Usage-Examples， https://tools.kali.org/exploitation-tools/commix
 
