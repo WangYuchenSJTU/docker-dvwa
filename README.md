@@ -1,17 +1,17 @@
 # docker-dvwa
 Using Damn Vulnerable Web Application in docker
 
-##
+## To do before 2018/05/16
 1. Tag your attack log with agent
 2. Read the tool code, to find out:
 
-    main steps to perform attacks?
+    Main steps to perform attacks?
     
-    Important functions?
+    Important functions or libraries?
     
-    attack pattern?
+    Where are the attack patterns?
     
-3. write a simple script to perform one attack.
+3. write a simple python script to perform one single attack.
 
 ## DVWA github
 https://github.com/ethicalhack3r/DVWA
