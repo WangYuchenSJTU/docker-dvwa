@@ -14,7 +14,7 @@
  
  python xsser.py -u "http://127.0.0.1/vulnerabilities/xss_r/?name=" --cookie="security=low; PHPSESSID=irlo67ci48k9eh3qluc57gjr80"
  url提示了攻击插入点
- 
+    
  ### 可添加的指令
  #### 输出结果相关
        -s -v  显示更多输出信息
