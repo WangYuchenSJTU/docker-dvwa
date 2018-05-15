@@ -2,7 +2,7 @@ Command Injection
 =
 安装方法
 -
-在https://github.com/commixproject/commix/releases下下载commix压缩包，直接解压即可(由于新版v2.4出现了问题，v2.2经尝试可行)
+在 https://github.com/commixproject/commix/releases 下下载commix压缩包，直接解压即可(由于新版v2.4出现了问题，v2.2经尝试可行)
 
 使用说明
 -
