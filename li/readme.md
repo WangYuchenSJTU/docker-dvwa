@@ -1,5 +1,5 @@
 # xsser使用指南
-
+https://github.com/epsylon/xsser
 ## 安装方法
  在 http://www.bubuko.com/infodetail-516700.html 下载ubuntu版，
  打开安装
