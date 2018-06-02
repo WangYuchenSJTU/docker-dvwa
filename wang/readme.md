@@ -8,7 +8,7 @@ git clone --depth 1 https://github.com/sqlmapproject/sqlmap.git sqlmap-dev
 ```bash
 python sqlmap.py -u "http://localhost/vulnerabilities/sqli/index.php?id=1&Submit=Submit#" --cookie="security=impossible;PHPSESSID=7366i81e7eemasjfhn2s3bju80" --level 5 --risk 3 --flush-session
 ```
-- attack on parameter(id/Submit)/Referer/Host/User-Agent/Cookie
+- attack on parameter(id/Submit)/Referer/Host/User-Agent/Cookie(secrity/PHPSESSID)
 ```bash
 [17:57:03] [INFO] testing for SQL injection on Host parameter 'Host'
 [17:57:03] [INFO] testing 'AND boolean-based blind - WHERE or HAVING clause'
