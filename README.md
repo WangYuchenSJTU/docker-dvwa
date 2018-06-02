@@ -1,18 +1,6 @@
 # docker-dvwa
 Using Damn Vulnerable Web Application in docker
 
-## To do before 2018/05/16
-1. Tag your attack log with agent
-2. Read the tool code, to find out:
-
-    Main steps to perform attacks?
-    
-    Important functions or libraries?
-    
-    Where are the attack patterns?
-    
-3. write a simple python script to perform one single attack.
-
 ## DVWA github
 https://github.com/ethicalhack3r/DVWA
 
@@ -28,6 +16,12 @@ docker run --name dvwa -itd -p 80:80 -p 3306:3306 -e MYSQL_PASS="mypass" -v ~/lo
 Default username = `admin`
 
 Default password = `password`
+
+- Possible problem: if mysql server fail to start, make sure using aufs as docker storage driver
+
+https://github.com/ethicalhack3r/DVWA/issues/175
+
+
 
 ## Tool Commands
 * remove all stopped containers
